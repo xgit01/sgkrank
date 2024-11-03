@@ -52,7 +52,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
-账号：<a href="https://www.shegongku.top/115.html" target="_blank">@BOXsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+账号：<a href="https://www.shegongku.top/115.html" target="_blank">@BOXsgkbot</a>，使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## liemo社工库⭐⭐⭐⭐⭐
 
