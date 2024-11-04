@@ -104,6 +104,11 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30botttttt</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 哈希社工库⭐⭐⭐
+
+支持人脸识别、手机号查询、短信轰炸，支持每日签到。
+
+账号：<a href="https://idouyin.io/4c" target="_blank">@AnonymousSGKbot</a>，需要安装Telegram，安装后点击链接会自动打开机器人地址，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## ingeek社工库⭐⭐
 
@@ -182,12 +187,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XepeeeetSGKbot</a>，目前已经无法使用。更多社工库详见<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
-
-## 哈希社工库⭐
-
-支持人脸识别、手机号查询、短信轰炸。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@AnoooooonymousSGKbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 神龙综合社工机器人⭐
