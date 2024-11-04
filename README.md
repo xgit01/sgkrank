@@ -112,9 +112,10 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ## ingeek社工库⭐⭐
 
-这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。有人反映此账号存在诈骗行为(不充值就不存在诈骗，免费的玩玩就好，充值也不一定能查出东西，社工库只对泄露数据有效，而且还有时效性)，使用时请自行甄别，涉及交易三四后行。具体查看此社工库详情：<a href="https://www.shegongku.top/39.html" target="_blank" >https://www.shegongku.top/39.html</a>。
+这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@ingeeeeeeksgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
+* 账号：<a href="https://idouyin.io/4c" target="_blank">@ingeeeeeeksgkbot</a>，需要安装Telegram，教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
