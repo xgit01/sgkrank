@@ -29,18 +29,6 @@
 
 
 
-## AI社工库⭐⭐⭐⭐⭐
-
-AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
-
-* 账号及详情: <a href="https://www.shegongku.top/43.html" target="_blank">AI社工库账号</a>
-* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
-
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
-
-
-
 ## X-ray社工库⭐⭐⭐⭐⭐
 
 这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@Zonesgk_bot</a>，<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -51,7 +39,8 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
-账号：<a href="https://www.shegongku.top/42.html" target="_blank">@HereisHopeBot</a>，附使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库</a>
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 黑盒社工库⭐⭐⭐⭐⭐
@@ -122,6 +111,17 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 账号：<a href="https://idouyin.io/4c" target="_blank">@ingeeeeeeksgkbot</a>，需要安装Telegram，教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## AI社工库⭐⭐⭐
+
+AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
+
+* 账号及详情: <a href="https://www.shegongku.top/43.html" target="_blank">AI社工库账号</a>
+* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
+
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
 
 
 
