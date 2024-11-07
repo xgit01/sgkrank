@@ -17,7 +17,10 @@
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
-暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。暗精灵社工库账号: <a href="https://www.shegongku.top/1.html" target="_blank">@AJL01_bot</a>，安装Telegram后，复制账号到Telegram搜索账号即可进入，附教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
+
+* 暗精灵社工库账号: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@AJL01_bot</a>
+* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 使用如下图：
