@@ -64,6 +64,14 @@
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XinbgDun6Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 摩乐乐社工库机器人-社工好帮手⭐⭐
+
+根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
+
+* 账号：<a href="https://www.shegongku.top/76.html" target="_blank">摩乐乐社工库</a>
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 ## Koi社工库机器人⭐⭐⭐
 
 可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。Koi社工库详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
@@ -81,11 +89,6 @@
 账号信息：<a href="https://www.shegongku.top/1.html" target="_blank">@pingannnnsgk_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 摩乐乐社工库机器人-社工好帮手⭐⭐
-
-根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MoooooooLeLeBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Hello World社工库⭐⭐⭐
