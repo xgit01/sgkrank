@@ -31,7 +31,10 @@
 
 ## X-ray社工库⭐⭐⭐⭐⭐
 
-这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分，账号: <a href="https://www.shegongku.top/1.html" target="_blank">@Zonesgk_bot</a>，<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
+
+* 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-ray社工库</a>；
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -47,13 +50,15 @@
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
-账号：<a href="https://www.shegongku.top/115.html" target="_blank">@BOXsgkbot</a>，使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## liemo社工库⭐⭐⭐⭐⭐
 
 速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
 
-账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">@hh_liemo_bot</a>，教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">liemo社工库</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
