@@ -66,7 +66,8 @@
 
 星盾社工机器人收录的数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XinbgDun6Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 摩乐乐社工库机器人-社工好帮手⭐⭐
