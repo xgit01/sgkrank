@@ -287,12 +287,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 这个社工库已经停止服务，没法用了，原账号：@LHAISGK_bot，看看其他社工库机器人吧：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
-## Koi社工库机器人⭐⭐⭐
-
-可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。Koi社工库详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
-
-* 账号：<a href="https://www.shegongku.top/282.html" target="_blank">@KoiSGKbot</a>
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
