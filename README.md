@@ -78,13 +78,6 @@
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## Koi社工库机器人⭐⭐⭐
-
-可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。Koi社工库详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@KoiiiiiiSGKbot</a>，教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
 ## 平安社工库⭐⭐⭐⭐
 
 平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://www.shegongku.top/41.html" target="_blank" >平安社工库</a>。
@@ -289,6 +282,15 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 ~~可查询项: 身份户籍, 开房记录, 企业信息, 事业单位, 贷款记录, 车辆车主, 电话通话, 学籍信息, 收货信息, 驾驶证, 外卖订单, 通讯录, 网购记录, 婚姻状况, 社保信息, 招聘记录, QQ/邮箱/微博/网络支付/微信号/LOL/手机号码, 朋友圈状态, QQ和其他在线聊天记录, 航班出行, 银行开卡, 贷款记录, 匹配完整手机号, 身份证号等联系方式相关信息。~~
 
 这个社工库已经停止服务，没法用了，原账号：@LHAISGK_bot，看看其他社工库机器人吧：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+
+
+## Koi社工库机器人⭐⭐⭐
+
+可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。Koi社工库详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
+
+* 账号：<a href="https://www.shegongku.top/282.html" target="_blank">@KoiSGKbot</a>
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 
 
