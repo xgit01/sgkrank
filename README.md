@@ -70,23 +70,16 @@
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 摩乐乐社工库机器人-社工好帮手⭐⭐
 
-根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
+## 平安社工库⭐⭐⭐⭐⭐
 
-* 账号：<a href="https://www.shegongku.top/76.html" target="_blank">摩乐乐社工库</a>
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-## 平安社工库⭐⭐⭐⭐
-
-平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://www.shegongku.top/41.html" target="_blank" >平安社工库</a>。
+平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定、学生数据等信息。
 
 <a href="https://idouyin.io/34" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
 
 
-账号信息：<a href="https://www.shegongku.top/1.html" target="_blank">@pingannnnsgk_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
+* 账号信息：<a href="https://www.shegongku.top/41.html" target="_blank">平安社工库</a>
+* 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -115,15 +108,13 @@
 * 账号：<a href="https://idouyin.io/4c" target="_blank">@ingeeeeeeksgkbot</a>，需要安装Telegram，教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## AI社工库⭐⭐⭐
 
-AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
+## 摩乐乐社工库机器人-社工好帮手⭐⭐
 
-* 账号及详情: <a href="https://www.shegongku.top/43.html" target="_blank">AI社工库账号</a>
-* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
+根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
+* 账号：<a href="https://www.shegongku.top/76.html" target="_blank">摩乐乐社工库</a>
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -195,6 +186,18 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XepeeeetSGKbot</a>，目前已经无法使用。更多社工库详见<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+
+
+
+## AI社工库⭐
+
+AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
+
+* 账号及详情: <a href="https://www.shegongku.top/43.html" target="_blank">AI社工库账号</a>
+* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
+
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
 
 
 
