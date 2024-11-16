@@ -133,7 +133,7 @@
 
 这个社工库支持身份户籍查询、快递地址查询、开房记录、QQ绑定信息、微博绑定信息，隐私信息免费查询，解锁需要积分，可以通过分享获得积分。
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0" style="width:380px;"></a>
 
 
 * 社工库Telegram账号：<a href="https://www.shegongku.top/1.html" target="_blank">Space社工库机器人</a>
@@ -145,7 +145,7 @@
 
 一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，群组内还支持免费短信轰炸功能。
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 * 账号：<a href="https://www.shegongku.top/58.html" target="_blank">免费社工库机器人</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -178,7 +178,7 @@
 
 最强免费社工人肉机器人，永久免费使用，全网数据最新最全（来自社工库自述），使用时需要发送特定格式的指令，此社工库详情：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库，永久免费使用，支持身份证正反面/开房记录/微信/QQ/微博/抖音等信息查询</a>。
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0" style="width:380px;"></a>
 
 
 * 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
