@@ -7,7 +7,7 @@
 >🔔插个广告：因为大多数社工库都需要用到Telegram，大陆的朋友正常都上不了境外网站，给没法上外网的朋友推荐个很多人都在推荐的机场，每月几块钱，不限设备，外网想上就上👇👇👇👇👇
 
 
-<a href="https://idouyin.io/34" target="_blank"><img src="https://img.fooliji.com/file/1015d9c5b28424ee58713.png" alt="社工库专用机场" border="0"></a>
+<a href="https://idouyin.io/34" target="_blank"><img src="pic/ad.png" alt="社工库专用机场" border="0"></a>
 
 
 社工库账号都列举在下面了，鉴于个别同学不会使用社工库工具，贴一下教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -85,20 +85,30 @@
 
 ## Hello World社工库⭐⭐⭐
 
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：<a href="https://www.shegongku.top/26.html" target="_blank">ello World社工库</a>。
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
 
 
 <a href="https://www.shegongku.top/26.html" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
 
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgk2023_03_30botttttt</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
+* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
+
+功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
+
+* 账号：<a href="https://www.shegongku.top/59.html" target="_blank">275社工库</a>*
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 哈希社工库⭐⭐⭐
 
 支持人脸识别、手机号查询、短信轰炸，支持每日签到。
 
-账号：<a href="https://idouyin.io/4c" target="_blank">@AnonymousSGKbot</a>，需要安装Telegram，安装后点击链接会自动打开机器人地址，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+* 账号：<a href="https://www.shegongku.top/61.html" target="_blank">哈希社工库</a>；
+* 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
 ## ingeek社工库⭐⭐
 
@@ -118,11 +128,6 @@
 
 
 
-## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐
-
-功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@tssssssfsgkbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## Space社工库机器人⭐⭐
 
@@ -131,7 +136,8 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/space.png" alt="Space社工库" border="0"></a>
 
 
-社工库Telegram账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SpaceeeeeSGK_bot</a>，不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库Telegram账号：<a href="https://www.shegongku.top/1.html" target="_blank">Space社工库机器人</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -141,20 +147,23 @@
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0"></a>
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGKkkkkkk_MG</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/58.html" target="_blank">免费社工库机器人</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 滴滴社工库⭐⭐
 
 本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，数据貌似也是旧的。
 
-账号：<a href="https://www.shegongku.top/24.html" target="_blank">@DiDiiiiiiiiSGK_Bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+* 账号：<a href="https://www.shegongku.top/24.html" target="_blank">滴滴社工库</a>
+* 教程： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## 狗狗免费社工机器人⭐⭐
 
 直接发送身份证号或QQ号码等信息，返回的数据简单、但是收录的数据不如<a href="https://www.shegongku.top/21.html" target="_blank" >前面分享的社工库</a>全面。
 
-账号：<a href="https://www.shegongku.top/314.html" target="_blank">@DogeeeeSGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/314.html" target="_blank">狗狗免费社工机器人</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Seed社工库⭐⭐
@@ -172,22 +181,18 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/huahua.png" alt="花花免费全球社工库" border="0"></a>
 
 
-社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@sgggggkvipbot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 叮当猫Telegram社工库⭐⭐
 
 可免费使用的社工库查询工具
 
-账号：<a href="https://www.shegongku.top/403.html" target="_blank">@DinggDangCats_Bot</a>，附上<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://www.shegongku.top/403.html" target="_blank">叮当猫Telegram社工库机器人</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-
-## XEPT社工库⭐
-
-支持常用号、婚姻、个户、神父、户口本、驾驶证、社保、学籍、二要素核验等信息查询，目前免费使用。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@XepeeeetSGKbot</a>，目前已经无法使用。更多社工库详见<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 
@@ -210,13 +215,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SLkkk_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-## 订单机器人⭐
 
-主页介绍列了一大堆的支持数据：输入你想输入的内容可查询到：淘宝订单、京东订单、拼多多订单、有赞订单、身份户籍、开房记录、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/OL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、通讯录等
-
-更新：经测试，此社工库机器人已经失效了。
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@DDddd880_BOT</a>，更多社工库机器人参考这里吧：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 ## 内网信息在线查询社工库⭐
 
@@ -227,11 +226,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 账号：@NeiwwwWangSGKbot，不过已经没法用了，看看其他社工库吧:<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
-## 新世界社工库⭐
-
-~~数据质量一般~~。
-
-账号： <a href="https://www.shegongku.top/1.html" target="_blank">@Data888_bot</a>，试了下，已经没法用了，没反应。想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 ## Botnet免费社工机器人⭐
@@ -261,12 +255,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@MI6SGK_bot</a>。貌似没法用了，想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
-
-## 知乎社工库⭐
-
-~~能返回QQ绑定数据和学习通数据，但返回的结果比较简单。~~  更新：签到正常，无法返回数据？
-
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@zhihu_bot</a>。貌似没法用了，此社工库详情：<a href="https://www.shegongku.top/27.html" target="_blank" >知乎社工库，QQ绑定查询、学习通查询</a>。
 
 
 
