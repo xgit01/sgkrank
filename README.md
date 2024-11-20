@@ -256,11 +256,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BaKaMasterBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
-## 烈火社工库机器人⭐
-
-~~可查询项: 身份户籍, 开房记录, 企业信息, 事业单位, 贷款记录, 车辆车主, 电话通话, 学籍信息, 收货信息, 驾驶证, 外卖订单, 通讯录, 网购记录, 婚姻状况, 社保信息, 招聘记录, QQ/邮箱/微博/网络支付/微信号/LOL/手机号码, 朋友圈状态, QQ和其他在线聊天记录, 航班出行, 银行开卡, 贷款记录, 匹配完整手机号, 身份证号等联系方式相关信息。~~
-
-这个社工库已经停止服务，没法用了，原账号：@LHAISGK_bot，看看其他社工库机器人吧：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 
 
 
