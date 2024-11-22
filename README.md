@@ -53,6 +53,15 @@
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+
+## 小孩哥社工库机器人⭐⭐⭐⭐⭐
+
+数据全，简单易用，可以每日签到免费查询~
+
+* 账号信息：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 ## liemo社工库⭐⭐⭐⭐⭐
 
 速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
