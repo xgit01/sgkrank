@@ -224,19 +224,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SLkkk_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
 
-
-
-## 内网信息在线查询社工库⭐
-
-
-🚀本机器人支持：快递,开房,车主,机主,户籍,身份证,手机,邮箱,账号,密码等社工库查询、QQ查绑/贴吧查绑/英雄联盟查QQ手机姓名/微博查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
-
-
-账号：@NeiwwwWangSGKbot，不过已经没法用了，看看其他社工库吧:<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
-
-
-
-
 ## Botnet免费社工机器人⭐
 
 ~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。
