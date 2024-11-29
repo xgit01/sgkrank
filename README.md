@@ -62,6 +62,15 @@
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 无名社工库机器人⭐⭐⭐⭐⭐
+
+无名社工库支持根据姓名模糊查询，也可以发送QQ号码、手机号、身份证号等信息进行查询，有新用户奖励，可以免费使用的Telegram在线社工库。
+
+* 账号信息：<a href="https://www.shegongku.top/449.html" target="_blank">无名社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
 ## liemo社工库⭐⭐⭐⭐⭐
 
 速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
