@@ -236,7 +236,11 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 老牌政务机器人，支持上海10亿&银联7亿猎魔查询、全国无地址个户信息、全国法人信息、二要素查询。
 
-账号：@TorontoSGKbot
+已经没法使用了~
+
+* 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@TorontoSGKbot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+
 
 ## 情报局社工库⭐
 
