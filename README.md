@@ -248,7 +248,10 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 此社工库可查询：身份证、手机号、快递住址、学籍信息、QQ绑定、邮箱绑定、微博绑定等，通过每日签到获取积分，测试了一下，非常难用，像是个半成品。
 
-社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BaKaMasterBot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+目前这个社工库已经废了。
+
+* 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BaKaMasterBot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 
