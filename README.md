@@ -226,9 +226,11 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ## Botnet免费社工机器人⭐
 
-~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。
+~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。这个账号目前已经搜索不到了
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_0001_bot</a>。这个账号目前已经搜索不到了，想要测试的可以找其他社工库试试：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+* 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_0001_bot</a>。
+* 其他社工库：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
 
