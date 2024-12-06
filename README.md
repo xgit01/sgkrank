@@ -121,6 +121,14 @@
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 约翰社工库机器人⭐⭐⭐
+
+约翰社工库机器人是一个在线Telegram社工库查询工具，支持人肉开盒：户籍、机主、开房、快递外卖地址、QQ群关系、账号密码、QQ/微博/LOL/手机查绑、QQ/手机真名、同名联系方式、同邮服、QQ/手机朋友圈、姓名(拼音)查身份证号（猎魔）。可以通过签到获取查询积分，免费使用此社工库。
+
+* 账号：<a href="https://www.shegongku.top/455.html" target="_blank">约翰社工库机器人</a>；
+* 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+
+
 ## 哈希社工库⭐⭐⭐
 
 支持人脸识别、手机号查询、短信轰炸，支持每日签到。
