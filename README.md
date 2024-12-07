@@ -117,7 +117,7 @@
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
-* 账号：<a href="https://www.shegongku.top/59.html" target="_blank">275社工库</a>*
+* 账号：<a href="https://www.shegongku.top/59.html" target="_blank">275社工库</a>；
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
