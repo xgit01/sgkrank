@@ -176,12 +176,22 @@
 * 账号：<a href="https://www.shegongku.top/58.html" target="_blank">免费社工库机器人</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+
+## 差佬查免费社工库⭐⭐
+
+可以查询身份证证件地址，手机机主，车牌查询等信息。发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询。
+
+* 账号：<a href="https://mfsgk.com/94.html" target="_blank">差佬查免费社工库</a>
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
 ## 滴滴社工库⭐⭐
 
 本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，数据貌似也是旧的。
 
 * 账号：<a href="https://www.shegongku.top/24.html" target="_blank">滴滴社工库</a>
-* 教程： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 狗狗免费社工机器人⭐⭐
