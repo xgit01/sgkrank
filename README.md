@@ -287,6 +287,12 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 * 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BaKaMasterBot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
+## 空壳Bot⭐
+
+免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。
+
+* 社工库账号：<a href="https://t.me/Freeshegongku_bot?start=11807600626qqofx" target="_blank">@Freeshegongku_bot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
 
