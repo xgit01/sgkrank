@@ -93,11 +93,25 @@
 
 平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定、学生数据等信息。
 
-<a href="https://idouyin.io/34" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
+<a href="https://www.shegongku.top" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
 
 
 * 账号信息：<a href="https://www.shegongku.top/41.html" target="_blank">平安社工库</a>
 * 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## 免费社工库|免费|开房|开盒|查人|查档 ⭐⭐⭐
+
+这是一个Telegram群组(机器人也可以使用)，号称永久免费，支持猎魔、身份证补齐等操作。查询操作在群内进行，群内有操作提示消息，需要按照群内的操作指令来进行查询。大体如下：
+
+
+<a href="https://www.shegongku.top" target="_blank"><img src="pic/GnoranceX.png" alt="免费社工库" border="0" style="width:380px;"></a>
+
+使用时可以参考群组内其他人的消息使用，一样的，换个查询条件就可以了，我没测试，需要的自己测试吧。
+
+
+* 账号：<a href="https://t.me/GnoranceX_bot?start=jizsam" target="_blank">@GnoranceX_bot</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
