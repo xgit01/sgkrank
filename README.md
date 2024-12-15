@@ -269,7 +269,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。这个账号目前已经搜索不到了
 
-* 账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SGK_0001_bot</a>。
+* 账号：<a href="https://www.shegongku.top" target="_blank">@SGK_0001_bot</a>。
 * 其他社工库：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
@@ -281,7 +281,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 已经没法使用了~
 
-* 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@TorontoSGKbot</a>
+* 社工库账号：<a href="https://www.shegongku.top" target="_blank">@TorontoSGKbot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
@@ -289,7 +289,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ~~此社工库支持人口与户籍细节、快递地址追踪、微信用户探索与好友网络分析、学籍信息查询、住宿记录透视等，效果未知，请自行测试。~~ 账号已经搜索不到了。
 
-* 情报局社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@InfSGK0_bot</a>
+* 情报局社工库账号：<a href="https://www.shegongku.top" target="_blank">@InfSGK0_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 ## Master社工库机器人⭐
@@ -305,7 +305,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。
 
-* 社工库账号：<a href="https://t.me/Freeshegongku_bot?start=11807600626qqofx" target="_blank">@Freeshegongku_bot</a>
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@Freeshegongku_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
