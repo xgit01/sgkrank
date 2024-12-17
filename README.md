@@ -269,7 +269,8 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 ~~点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。~~ 这个社工库已经废了，<a href="https://www.shegongku.top/1.html" target="_blank">换别的吧</a>。
 
-账号：<a href="https://www.shegongku.top/1.html" target="_blank">@SLkkk_SGK_bot</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
+* 账号：<a href="https://www.shegongku.top/" target="_blank">神龙社工库</a>，
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## Botnet免费社工机器人⭐
