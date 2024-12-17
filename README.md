@@ -45,6 +45,14 @@
 * 账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## 日月社工库⭐⭐⭐⭐⭐
+
+永久免费的社工库，查开户，查婚姻，查开房记录，查银行流水，返回数据挺全。
+
+* 账号：<a href="https://mfsgk.com/83.html" target="_blank">RYSGKBOT</a>；
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 
 ## 黑盒社工库⭐⭐⭐⭐⭐
 
