@@ -123,9 +123,9 @@
 
 ## 空壳Bot⭐
 
-免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。
+免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。时不时的会抽风查询不了。
 
-* 社工库账号：<a href="https://t.me/Freeshegongku_bot?start=11807600626qqofx" target="_blank">@Freeshegongku_bot</a>
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@Freeshegongku_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
