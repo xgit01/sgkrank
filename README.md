@@ -118,7 +118,7 @@
 使用时可以参考群组内其他人的消息使用，一样的，换个查询条件就可以了，我没测试，需要的自己测试吧。
 
 
-* 账号：<a href="https://t.me/GnoranceX_bot?start=jizsam" target="_blank">@GnoranceX_bot</a>
+* 账号：<a href="https://www.shegongku.top/" target="_blank">@GnoranceX_bot</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 空壳Bot⭐
