@@ -36,6 +36,12 @@
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-ray社工库</a>；
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## 情报局社工库⭐⭐⭐⭐⭐
+
+此社工库支持人口与户籍细节、快递地址追踪、微信用户探索与好友网络分析、学籍信息查询、住宿记录透视等，效果未知，请自行测试，被注销的账号又通过新账号复活了。
+
+* 情报局社工库账号：<a href="https://www.shegongku.top" target="_blank">情报局社工库之青龙</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
 ## Hope社工库机器人⭐⭐⭐⭐⭐
@@ -308,13 +314,6 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 * 社工库账号：<a href="https://www.shegongku.top" target="_blank">@TorontoSGKbot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
-
-## 情报局社工库⭐
-
-~~此社工库支持人口与户籍细节、快递地址追踪、微信用户探索与好友网络分析、学籍信息查询、住宿记录透视等，效果未知，请自行测试。~~ 账号已经搜索不到了。
-
-* 情报局社工库账号：<a href="https://www.shegongku.top" target="_blank">@InfSGK0_bot</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 ## Master社工库机器人⭐
 
