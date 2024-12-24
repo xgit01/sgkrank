@@ -84,6 +84,18 @@
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 智网综合社工库机器人⭐⭐⭐⭐⭐
+
+这个社工库可以免费用，每日有三次免费查询次数，可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
+
+
+* 账号信息：<a href="https://t.me/SGKX_BBOT?start=LKhjjxM4IOG2" target="_blank">@SGKX_BBOT</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
 
 ## liemo社工库⭐⭐⭐⭐⭐
 
@@ -273,8 +285,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 
 
 
-
-
 ## AI社工库⭐
 
 AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
@@ -321,7 +331,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 目前这个社工库已经废了。
 
-* 社工库账号：<a href="https://www.shegongku.top/1.html" target="_blank">@BaKaMasterBot</a>
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@BaKaMasterBot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
@@ -329,8 +339,8 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 一个社工库，个户机器人，根据身份证号码生成真实个人头像和户籍地址。包括白底、身份证反正面，这个不免费，所以没尝试，没有免费功能，不建议使用。
 
-
-
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@SGKQMS_bot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
 
