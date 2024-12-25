@@ -253,7 +253,7 @@
 
 Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧、手机机主信息等内容。试了下签到功能、查询功能都正常，查询免费，解锁需要消耗积分，返回的信息略少。
 
-* 账号：<a href="t.me/BUGSGK_BOT?start=fega3AdUqA" target="_blank">@BUGSGK_BOT</a>
+* 账号：<a href="https://www.shegongku.top/482.html" target="_blank">@BUGSGK_BOT</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
