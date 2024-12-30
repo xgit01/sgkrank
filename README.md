@@ -140,7 +140,7 @@
 使用时可以参考群组内其他人的消息使用，一样的，换个查询条件就可以了，我没测试，需要的自己测试吧。
 
 
-* 账号：<a href="https://www.shegongku.top/" target="_blank">@GnoranceX_bot</a>
+* 账号：<a href="https://www.shegongku.top/473.html" target="_blank">@GnoranceX_bot</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 空壳Bot⭐
@@ -157,7 +157,7 @@
 此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
 
 
-<a href="https://www.shegongku.top/26.html" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
+<a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
 
 
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
