@@ -95,7 +95,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
 
-* 账号信息：<a href="https://t.me/SGKX_BBOT?start=LKhjjxM4IOG2" target="_blank">@SGKX_BBOT</a>；
+* 账号信息：<a href="https://www.shegongku.top/" target="_blank">@SGKX_BBOT</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
