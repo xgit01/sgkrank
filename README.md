@@ -141,13 +141,13 @@
 * 账号：<a href="https://www.shegongku.top/473.html" target="_blank">@GnoranceX_bot</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 空壳Bot⭐
 
-免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。时不时的会抽风查询不了，又又又抽风了。
+## 免费永旺社工机器人⭐⭐⭐
 
-* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@Freeshegongku_bot</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
+永旺社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。
 
+* 账号：<a href="https://t.me/AEON_SGKBOT?start=1180760062" target="_blank">@AEON_SGKBOT</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Hello World社工库⭐⭐⭐
@@ -285,6 +285,12 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 账号：<a href="https://www.shegongku.top/403.html" target="_blank">叮当猫Telegram社工库机器人</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## 空壳Bot⭐
+
+免费社工库机器人查询，社工库机器人，社工库查档，这个没测试，需要邀请10个人才能使用，先占个坑。时不时的会抽风查询不了，又又又抽风了。
+
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@Freeshegongku_bot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
 ## AI社工库⭐
