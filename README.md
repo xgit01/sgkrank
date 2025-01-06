@@ -151,7 +151,7 @@
 
 ## Hello World社工库⭐⭐⭐
 
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。这个社工库最近貌似抽风了？
 
 
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
