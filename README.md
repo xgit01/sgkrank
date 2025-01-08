@@ -350,6 +350,15 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
+## 魔神社工机器人⭐
+
+~~魔神社工库支持查询QQ信息.LoL数据.人口猎魔.开房数据.快递信息.京东天猫淘宝信息.手机号机主信息.手机号历史定位.户籍地址.进行短信轰炸.KFC信息.宽带信息.12306驾驶人信息~~。
+
+没法用了。
+
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@motianxiaoBot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
+
 
 
 
