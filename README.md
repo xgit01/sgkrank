@@ -71,6 +71,9 @@
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/hhsgk.png" alt="2025最新社工库-黑盒社工库" border="0" style="width:380px;"></a>
+
+
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
