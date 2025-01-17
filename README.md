@@ -155,18 +155,6 @@
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## Hello World社工库⭐⭐⭐
-
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。这个社工库最近貌似抽风了？
-
-
-<a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
-
-
-* 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
-* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
 
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
@@ -326,6 +314,17 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 * 其他社工库：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
+
+## Hello World社工库⭐
+
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。这个社工库最近貌似抽风了？
+
+
+<a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
+
+
+* 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
+* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 老牌政务机器人⭐
