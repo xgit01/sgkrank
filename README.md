@@ -369,7 +369,7 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 之前一个可以查学历，查车主的社工库机器人，不过现在没法用了。
 
-* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@yichacha_bot</a>
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">易查查社工库</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
