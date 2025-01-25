@@ -93,6 +93,14 @@
 * 账号信息：<a href="https://www.shegongku.top/449.html" target="_blank">无名社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## FanHua社工库机器人(繁花社工库)
+
+支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
+
+* 账号信息：<a href="https://www.shegongku.top/491.html" target="_blank">繁花社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 
 ## 智网综合社工库机器人⭐⭐⭐⭐⭐
 
