@@ -193,6 +193,12 @@
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## 鸟哥短信轰炸机器人⭐⭐
+
+一个支持短信轰炸的社工库机器人，支持短信轰炸，电话轰炸，查询QQ绑定等功能。
+
+* 详情：<a href="https://t.me/nb3344bot?start=1180760062" target="_blank" >@nb3344bot</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 摩乐乐社工库机器人-社工好帮手⭐⭐
@@ -201,7 +207,6 @@
 
 * 账号：<a href="https://www.shegongku.top/76.html" target="_blank">摩乐乐社工库</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 
 
