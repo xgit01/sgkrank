@@ -62,7 +62,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
 
 
-* 账号：<a href="https://www.shegongku.top/485.html" target="_blank">@RYSGKBOT</a>；
+* 账号：<a href="https://www.shegongku.top/485.html" target="_blank">日月社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
@@ -109,7 +109,15 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
 
-* 账号信息：<a href="https://www.shegongku.top/" target="_blank">@SGKX_BBOT</a>；
+## 免费永旺社工机器人⭐⭐⭐⭐⭐
+
+永旺社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的哪个智网是同一个。智网社工库换账号地址了。
+
+* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+* 账号信息：<a href="https://www.shegongku.top/" target="_blank">智网综合社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
@@ -128,14 +136,6 @@
 
 * 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-## 免费永旺社工机器人⭐⭐⭐⭐
-
-永旺社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的哪个智网是同一个。智网社工库换账号地址了。
-
-* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 
 ## 平安社工库⭐⭐⭐⭐⭐
