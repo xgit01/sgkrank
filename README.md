@@ -108,6 +108,10 @@
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
+* 账号信息：<a href="https://www.shegongku.top/" target="_blank">智网综合社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
 
@@ -117,8 +121,13 @@
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-* 账号信息：<a href="https://www.shegongku.top/" target="_blank">智网综合社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+## 天网社工库⭐⭐⭐⭐⭐
+
+这个天网社工库大概是那个情报局查档|开户|开放|社工库的另一个马甲，需要关注情报局社工库的频道和群组之后才可以使用，支持签到后免费使用的社工库，试了下返回数据质量还可以。
+
+* 账号：<a href="https://www.shegongku.top/" target="_blank">@tianwangchadangTop1_bot</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 
 
 ## liemo社工库⭐⭐⭐⭐⭐
