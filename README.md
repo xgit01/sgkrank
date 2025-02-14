@@ -125,7 +125,7 @@
 
 这个天网社工库大概是那个情报局查档|开户|开放|社工库的另一个马甲，需要关注情报局社工库的频道和群组之后才可以使用，支持签到后免费使用的社工库，试了下返回数据质量还可以。
 
-* 账号：<a href="https://www.shegongku.top/" target="_blank">@tianwangchadangTop1_bot</a>
+* 账号：<a href="https://www.shegongku.top/" target="_blank">天网社工库</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
