@@ -195,6 +195,14 @@
 * 账号：<a href="https://www.shegongku.top/61.html" target="_blank">哈希社工库</a>；
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
+
+## 屁屁侦探社工库机器人⭐⭐⭐
+
+哈哈，挺佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
+
+* 账号：<a href="https://www.shegongku.top/212.html" target="_blank">屁屁侦探社工库机器人</a>；
+* 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+
 ## ingeek社工库⭐⭐
 
 全网泄露数据收录社工库机器人，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
