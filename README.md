@@ -403,6 +403,14 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
+## 免费社工库机器人 – OnlySGK⭐
+
+Only免费社工库查询工具，目前功能异常，无法使用了。
+
+* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@OnlySGK_bot</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
+
+
 
 参考文章：
 
