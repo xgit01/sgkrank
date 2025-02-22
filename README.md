@@ -22,11 +22,9 @@
 * 暗精灵社工库账号: <a href="https://t.me/AJL02_bot?start=1180760062" target="_blank">@AJL02_bot</a>
 * 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
 使用如下图：
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
-
 
 
 ## X-ray社工库⭐⭐⭐⭐⭐
@@ -214,7 +212,7 @@
 
 一个支持短信轰炸的社工库机器人，支持短信轰炸，电话轰炸，查询QQ绑定等功能。
 
-* 详情：<a href="https://t.me/nb3344bot?start=1180760062" target="_blank" >@nb3344bot</a>。
+* 详情：<a href="https://www.itheikeji.cc/21664.html" target="_blank" >鸟哥短信轰炸机器人</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
