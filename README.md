@@ -136,6 +136,12 @@
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## ingeek社工库⭐⭐⭐⭐⭐
+
+全网泄露数据收录社工库机器人，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
+
+* 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 星盾社工机器人⭐⭐⭐⭐
 
@@ -201,12 +207,6 @@
 * 账号：<a href="https://www.shegongku.top/212.html" target="_blank">屁屁侦探社工库机器人</a>；
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
-## ingeek社工库⭐⭐
-
-全网泄露数据收录社工库机器人，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
-
-* 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 鸟哥短信轰炸机器人⭐⭐
 
