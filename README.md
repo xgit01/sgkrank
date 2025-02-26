@@ -199,6 +199,13 @@
 * 账号：<a href="https://www.shegongku.top/61.html" target="_blank">哈希社工库</a>；
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
+## 007社工库机器人⭐⭐⭐
+
+机主查询/猎魔查询/法人查询/快递查询社工库机器人，功能很丰富的社工库机器人，主要用于身份信息验证，提供高清正反面照片，全国同名信息查询。
+
+* 账号：<a href="https://www.shegongku.top/233.html" target="_blank">007社工库机器人</a>；
+* 使用说明：<a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细图文教程</a>。
+
 
 ## 屁屁侦探社工库机器人⭐⭐⭐
 
@@ -313,25 +320,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@Freeshegongku_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
-
-## AI社工库⭐
-
-AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁需要积分。近期（2024年11月6日）发现不能用了，提示更新中？
-
-* 账号及详情: <a href="https://www.shegongku.top/43.html" target="_blank">AI社工库账号</a>
-* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >最新Telegram社工库使用教程</a>。
-
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ai.png" alt="AI社工库" border="0" style="width:380px;"></a>
-
-
-
-## 神龙综合社工机器人⭐
-
-~~点击菜单的开始进行注册。然后发送手机号\QQ号之类的就可以开始查询了，只不过无法免费试用，对返回的信息解锁需要一定的积分。~~ 这个社工库已经废了，<a href="https://www.shegongku.top/1.html" target="_blank">换别的吧</a>。
-
-* 账号：<a href="https://www.shegongku.top/" target="_blank">神龙社工库</a>，
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
 
 ## Botnet免费社工机器人⭐
