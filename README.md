@@ -45,6 +45,23 @@
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
+## 智网综合社工库机器人⭐⭐⭐⭐⭐
+
+智网综合社工库可以免费用，每日有三次免费查询次数，可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。这个社工库跟后面的永旺社工库账号合并了，直接看下面的吧。
+
+<a href="https://www.shegongku.top/488.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
+
+* 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## 免费永旺社工机器人⭐⭐⭐⭐⭐
+
+永旺社工库是一个强势新出的社工库机器人，此社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
+
+* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 ## Hope社工库机器人⭐⭐⭐⭐⭐
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
@@ -99,24 +116,6 @@
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-
-## 智网综合社工库机器人⭐⭐⭐⭐⭐
-
-智网综合社工库可以免费用，每日有三次免费查询次数，可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。这个社工库跟后面的永旺社工库账号合并了，直接看下面的吧。
-
-<a href="https://www.shegongku.top/488.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
-
-* 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-
-## 免费永旺社工机器人⭐⭐⭐⭐⭐
-
-永旺社工库是一个强势新出的社工库机器人，此社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
-
-* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 天网社工库⭐⭐⭐⭐⭐
@@ -283,7 +282,7 @@
 
 Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧、手机机主信息等内容。试了下签到功能、查询功能都正常，查询免费，解锁需要消耗积分，返回的信息略少。
 
-* 账号：<a href="https://www.shegongku.top/482.html" target="_blank">@BUGSGK_BOT</a>
+* 账号：<a href="https://www.shegongku.top/482.html" target="_blank">BUG社工库</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
