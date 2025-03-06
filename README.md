@@ -62,6 +62,15 @@
 * 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+
+## 红鼻子社工库机器人⭐⭐⭐⭐⭐
+
+大红鼻子社工库机器人复活了，猎魔、开户、机主查询，可签到获取积分（积分可以用来解锁结果）。
+
+* 账号：<a href="https://t.me/freesgk123_bot?start=3O7JJ6GP" target="_blank">@freesgk123_bot</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
 ## Hope社工库机器人⭐⭐⭐⭐⭐
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
