@@ -41,7 +41,7 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/qbj_new.png" alt="情报局社工库" border="0" style="width:380px;"></a>
 
 
-* 情报局社工库账号：<a href="https://www.shegongku.top" target="_blank">情报局社工库之青龙</a>
+* 情报局社工库账号：<a href="https://www.shegongku.top/60.html" target="_blank">情报局社工库之青龙</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
