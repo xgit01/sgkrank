@@ -59,7 +59,7 @@
 
 永旺社工库是一个强势新出的社工库机器人，此社工库-可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
 
-* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">@AEON_SGKBOT</a>
+* 账号：<a href="https://www.shegongku.top/488.html" target="_blank">免费永旺社工机器人</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
