@@ -83,7 +83,7 @@
 原日月社工库机器人被注销了，目前换了账号了，综合数据社工库，号称永久免费的社工库，查开户，查婚姻，查开房记录，查银行流水，返回数据挺全。功能应该是恢复正常了，看群组里很多人在用。
 
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/new_riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
 
 
 * 账号：<a href="https://www.shegongku.top/485.html" target="_blank">日月社工库</a>；
