@@ -73,7 +73,7 @@
 
 ## Hope社工库机器人⭐⭐⭐⭐⭐
 
-数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
+Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
 * 账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
