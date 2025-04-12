@@ -29,7 +29,7 @@
 
 ## X-ray社工库⭐⭐⭐⭐⭐
 
-这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
+X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
 
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-ray社工库</a>；
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
