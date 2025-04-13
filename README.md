@@ -67,7 +67,7 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 
 大红鼻子社工库机器人复活了，猎魔、开户、机主查询，可签到获取积分（积分可以用来解锁结果）。
 
-* 账号：<a href="https://www.shegongku.top/521.html" target="_blank">@freesgk123_bot</a>
+* 账号：<a href="https://www.shegongku.top/521.html" target="_blank">红鼻子社工库</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
@@ -104,7 +104,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 ## 小孩哥社工库机器人⭐⭐⭐⭐⭐
 
-数据全，简单易用，可以每日签到免费查询~
+小孩哥社工库机器人数据全，简单易用，可以每日签到免费查询~
 
 * 账号信息：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -174,6 +174,15 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 * 账号信息：<a href="https://www.shegongku.top/41.html" target="_blank">平安社工库</a>
 * 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+
+## 云查查免费社工库 ⭐⭐⭐⭐
+
+一个莫名其妙的社工库，号称免费，但是点击各功能都没有反应，暂时占个坑，后面再尝试吧。
+
+* 账号：<a href="https://t.me/shegongku2025" target="_blank">@shegongku2025</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 免费社工库|免费|开房|开盒|查人|查档 ⭐⭐⭐
