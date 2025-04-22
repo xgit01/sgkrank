@@ -35,6 +35,11 @@
 * 账号: <a href="https://t.me/TapSGKbot?start=73787e" target="_blank">TapTapSGK社工库</a>；
 * 教程：<a href="https://www.shegongku.top/432.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+频道内查询效果图如下：
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/TapSGKbot-chaxun.png" alt="TapTapSGK社工库" border="0" style="width:380px;"></a>
+
+
 ## X-ray社工库⭐⭐⭐⭐⭐
 
 X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
