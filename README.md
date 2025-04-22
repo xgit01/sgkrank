@@ -27,6 +27,14 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 
+
+## TapTapSGK社工库⭐⭐⭐⭐⭐
+
+2025新出TapTapSGK社工库机器人，全网独家真手机定位及外卖地址、酒店记录社工库查询工具，感谢热心网友分享，社工库主页介绍了其主要功能特色，支持自助查询，需要的自行测试吧。
+
+* 账号: <a href="https://t.me/TapSGKbot?start=73787e" target="_blank">TapTapSGK社工库</a>；
+* 教程：<a href="https://www.shegongku.top/432.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 ## X-ray社工库⭐⭐⭐⭐⭐
 
 X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
