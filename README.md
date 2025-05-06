@@ -8,7 +8,7 @@
 <a href="https://idouyin.io/34" target="_blank"><img src="pic/ad.png" alt="社工库专用机场" border="0"></a>
 
 
-社工库账号都列举在下面了，鉴于个别同学不会使用社工库工具，贴一下教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+当前可用社工库查询工具账号都列举在下面了，鉴于个别同学不会使用社工库工具，贴一下教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ⚠免责声明：整理来自网络的可用社工库工具，勿用于非法用途，仅供了解、娱乐、个人信息泄露验证使用，没有对社工库有进一步的了解，对付费的社工库也没有尝试过，不做评价，但我相信，充值了也不一定能查出来东西，自己有个心里准备。
