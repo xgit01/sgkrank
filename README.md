@@ -296,9 +296,9 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 ## 差佬查免费社工库⭐⭐
 
-可以查询身份证证件地址，手机机主，车牌查询等信息。发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询。
+差佬查免费社工库可以查询身份证证件地址，手机机主，车牌查询等信息。发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询。
 
-* 账号：<a href="https://www.shegongku.top/480.html" target="_blank">差佬查免费社工库</a>
+* 账号：<a href="https://www.shegongku.top/480.html" target="_blank">@chalaoshegongku</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
