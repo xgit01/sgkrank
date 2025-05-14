@@ -91,7 +91,7 @@ ingeek社工库机器人收录全网泄露数据，支持各类泄漏数据的�
 
 最新可用社工库分享，暗影社工库支持人脸识别、微信开盒、手机号开盒、身份证开盒、短信轰炸等功能，经过3天的暂停服务后又恢复正常了。
 
-* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@itheikeji_aysgkbot</a>
+* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@aysgkbot2025</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
