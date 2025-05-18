@@ -24,6 +24,16 @@
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
+
+## 情报局社工库-玄武⭐⭐⭐⭐⭐
+
+知名开盒社工库情报局社工库机器人支持人口与户籍细节、快递地址追踪、微信用户探索与好友网络分析、学籍信息查询、住宿记录透视等，微信绑定查询社工库等功能，5年老牌社工库，详情见群组内其他人的查询结果展示图。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/QingBaoJuXuanwubot.png" alt="情报局社工库开盒" border="0" style="width:380px;"></a>
+
+* 情报局社工库账号：<a href="https://t.me/QingBaoJuXuanwubot?start=NjU=" target="_blank">情报局社工库之玄武</a>
+* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库开盒教程</a>。
+
 ## TapTapSGK社工库⭐⭐⭐⭐⭐
 
 2025最新可用在线社工库分享，新出TapTapSGK社工库机器人，全网独家真手机定位及外卖地址、酒店记录社工库查询工具，感谢热心网友分享，社工库主页介绍了其主要功能特色，支持自助查询，需要的自行测试吧。
@@ -70,14 +80,6 @@ ingeek社工库机器人收录全网泄露数据，支持各类泄漏数据的�
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 情报局社工库-青龙⭐⭐⭐⭐⭐
-
-情报局社工库机器人支持人口与户籍细节、快递地址追踪、微信用户探索与好友网络分析、学籍信息查询、住宿记录透视等，微信绑定查询社工库的效果未知，请自行测试，被注销的账号又通过新账号复活了。数据质量挺高，为防止被删，貌似搞了好几个分帐号(最新账号待更新)。
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/qbj_new.png" alt="情报局社工库" border="0" style="width:380px;"></a>
-
-* 情报局社工库账号：<a href="https://www.shegongku.top/60.html" target="_blank">情报局社工库之青龙</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 ## 红鼻子社工库机器人⭐⭐⭐⭐⭐
 
