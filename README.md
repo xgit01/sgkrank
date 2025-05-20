@@ -46,15 +46,6 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/TapSGKbot-chaxun.png" alt="TapTapSGK社工库" border="0" style="width:380px;"></a>
 
 
-## X-ray社工库⭐⭐⭐⭐⭐
-
-X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
-
-* 账号: <a href="https://www.shegongku.top/46.html" target="_blank">@Zonesgk_bot001</a>；
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-
 ## 智网综合社工库机器人⭐⭐⭐⭐⭐
 
 智网综合社工库是一个免费海外开盒社工库工具，此社工库机器人2025查询工具可以免费用，每日有三次免费查询次数，智网综合社工库可以查询车牌（全国车主），也可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。这个社工库跟后面的永旺社工库账号合并了，直接看下面的吧。
@@ -67,7 +58,7 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
 
-永旺社工库是一个强势新出的社工库机器人/社工库查询工具，此社工库可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
+永旺社工库是一个强势新出的社工库机器人/社工库查询工具，此社工库可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。开盒必备社工库，这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
 
 * 账号：<a href="https://www.shegongku.top/488.html" target="_blank">免费永旺社工机器人</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -80,6 +71,13 @@ ingeek社工库机器人收录全网泄露数据，支持各类泄漏数据的�
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+
+## X-ray社工库⭐⭐⭐⭐⭐
+
+X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
+
+* 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-RAY智能机器人</a>；
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 红鼻子社工库机器人⭐⭐⭐⭐⭐
 
