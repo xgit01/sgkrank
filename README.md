@@ -103,17 +103,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号：<a href="https://www.shegongku.top/42.html" target="_blank">Hope社工库</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 日月社工库⭐⭐⭐⭐⭐
-
-原日月社工库机器人被注销了，目前换了账号了，综合数据社工库，号称永久免费的社工库，查开户，查婚姻，查开房记录，查银行流水，返回数据挺全。功能应该是恢复正常了，看群组里很多人在用。
-
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/new_riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
-
-
-* 账号：<a href="https://www.shegongku.top/485.html" target="_blank">日月社工库</a>；
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 
 ## 黑盒社工库⭐⭐⭐⭐⭐
@@ -439,6 +428,15 @@ Only免费社工库查询工具，目前功能异常，无法使用了。
 * 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@OnlySGK_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
+
+## 日月社工库⭐
+
+原日月社工库机器人被注销了，目前换了账号了，综合数据社工库，号称永久免费的社工库，查开户，查婚姻，查开房记录，查银行流水，返回数据挺全。功能应该是恢复正常了，看群组里很多人在用。
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/new_riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
+
+* 账号：<a href="https://www.shegongku.top/485.html" target="_blank">日月开盒社工库</a>；
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegra开盒社工库教程</a>。
 
 
 参考文章：
