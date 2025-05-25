@@ -54,7 +54,7 @@
 <a href="https://www.shegongku.top/488.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
 * 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
 
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
