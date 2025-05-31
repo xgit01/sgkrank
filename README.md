@@ -173,9 +173,9 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 平安社工库⭐⭐⭐⭐⭐
+## 平安社工库⭐⭐⭐⭐
 
-平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定、学生数据等信息。
+平安社工库机器人可以查询身份户籍、快递地址、QQ绑定、微博绑定、学生数据等信息。
 
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
 
