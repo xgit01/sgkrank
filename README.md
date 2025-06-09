@@ -240,7 +240,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 ## 屁屁侦探社工库机器人⭐⭐⭐
 
-哈哈，挺佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
+挺佛系的一个社工库，贡献者推荐，但有网友说数据量比较少，看这个社工库频道春节还暂停休息一段时间，一个字，绝～，但是可以签到获取积分，白嫖一下，没有查到东西也不吃亏～
 
 * 账号：<a href="https://www.shegongku.top/212.html" target="_blank">屁屁侦探社工库机器人</a>；
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
@@ -250,7 +250,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 一个支持短信轰炸的社工库机器人，支持短信轰炸，电话轰炸，查询QQ绑定等功能。
 
-* 详情：<a href="https://www.itheikeji.cc/21664.html" target="_blank" >鸟哥短信轰炸机器人</a>。
+* 详情：<a href="https://www.itheikeji.com/1.html" target="_blank" >鸟哥短信轰炸机器人</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
