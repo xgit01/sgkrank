@@ -435,7 +435,7 @@ Only免费社工库查询工具，目前功能异常，无法使用了。
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/new_riyue.png" alt="日月社工库" border="0" style="width:380px;"></a>
 
-* 账号：<a href="https://www.shegongku.top/485.html" target="_blank">日月开盒社工库</a>；
+* 账号：<a href="https://www.mfsgk.com/83.html" target="_blank">日月开盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegra开盒社工库教程</a>。
 
 
