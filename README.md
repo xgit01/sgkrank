@@ -237,6 +237,14 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号：<a href="https://www.shegongku.top/233.html" target="_blank">007社工库机器人</a>；
 * 使用说明：<a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细图文教程</a>。
 
+## 诗人社工库⭐⭐⭐
+
+独具特色的真地址开盒社工库，个户数据开户及联通记住信息查询，自称全网最强个户机器人。
+
+* 账号：<a href="https://www.shegongku.top/592.html" target="_blank">诗人社工库机器人</a>；
+* 使用说明：<a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细图文教程</a>。
+
+
 
 ## 屁屁侦探社工库机器人⭐⭐⭐
 
