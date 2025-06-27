@@ -116,13 +116,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 小孩哥社工库机器人⭐⭐⭐⭐⭐
-
-小孩哥社工库机器人数据全，简单易用，可以每日签到免费查询~
-
-* 账号信息：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 ## 无名社工库机器人⭐⭐⭐⭐⭐
 
@@ -138,7 +131,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号信息：<a href="https://www.shegongku.top/491.html" target="_blank">繁花社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 杰拉德社工库机器人社工库⭐ ⭐ ⭐ ⭐ ⭐
+## 杰拉德社工库机器人社工库⭐⭐⭐⭐
 
 杰拉德社工库机器人是2025新出社工库，原红鼻子社工库打造新产品，数据搭载138000000条二要素数据，覆盖了全国95%的人口信息，之前泄露的上海10e数据也在导入中，感谢网友提供的分享。
 
@@ -146,8 +139,15 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 小孩哥社工库机器人⭐⭐⭐⭐
 
-## 天网社工库⭐⭐⭐⭐⭐
+小孩哥社工库机器人数据全，简单易用，可以每日签到免费查询~
+
+* 账号信息：<a href="https://www.shegongku.top/445.html" target="_blank">小孩哥社工库机器人</a>；
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## 天网社工库⭐⭐⭐⭐
 
 这个天网社工库大概是那个情报局查档|开户|开放|社工库的另一个马甲，需要关注情报局社工库的频道和群组之后才可以使用，支持签到后免费使用的社工库，试了下返回数据质量还可以。
 
