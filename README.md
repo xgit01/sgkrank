@@ -184,12 +184,11 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
+## 云查查免费社工库 ⭐⭐⭐
 
-## 云查查免费社工库 ⭐⭐⭐⭐
+永久免费社工库or永久宕机社工库，有时无反应且号称免费👎，发送qq试了下，可返回信息，真实性自行验证。请不要充值使用。
 
-一个莫名其妙的社工库，号称免费，但是点击各功能都没有反应，暂时占个坑，后面再尝试吧。
-
-* 账号：<a href="https://t.me/shegongku2025" target="_blank">@shegongku2025</a>
+* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
