@@ -25,16 +25,13 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 
-## TapTapSGK社工库⭐⭐⭐⭐⭐
+## 星盾社工机器人⭐⭐⭐⭐⭐
 
-2025最新可用免费在线社工库，TapTapSGK开盒社工库机器人，此开盒社工库号称全网独家真手机定位及外卖地址、酒店记录社工库查询工具，机器人菜单下还提供了短信轰炸功能，感谢热心网友分享，社工库主页介绍了其主要功能特色，支持自助查询，需要的自行测试吧。
+免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
-* 账号: <a href="https://www.shegongku.top/432.html" target="_blank">@Tap社工库</a>；
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新Tap社工库下载</a>。
+* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-频道内查询效果图如下：
-
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/TapSGKbot-chaxun.png" alt="TapTapSGK社工库" border="0" style="width:380px;"></a>
 
 ## 情报局社工库-玄武⭐⭐⭐⭐⭐
 
@@ -104,7 +101,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-
 ## 黑盒社工库⭐⭐⭐⭐⭐
 
 黑盒社工库-超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
@@ -114,7 +110,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 
 ## 无名社工库机器人⭐⭐⭐⭐⭐
@@ -163,14 +158,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">liemo社工库</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
-
-## 星盾社工机器人⭐⭐⭐⭐
-
-星盾社工机器人收录的数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
-
-* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 平安社工库⭐⭐⭐⭐
@@ -379,6 +366,18 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
 * 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## TapTapSGK社工库⭐
+
+2025最新可用免费在线社工库，TapTapSGK开盒社工库机器人，此开盒社工库号称全网独家真手机定位及外卖地址、酒店记录社工库查询工具，机器人菜单下还提供了短信轰炸功能，感谢热心网友分享，社工库主页介绍了其主要功能特色，支持自助查询，需要的自行测试吧。
+
+* 账号: <a href="https://www.shegongku.top/432.html" target="_blank">@Tap社工库</a>；
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新Tap社工库下载</a>。
+
+频道内查询效果图如下：
+
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/TapSGKbot-chaxun.png" alt="TapTapSGK社工库" border="0" style="width:380px;"></a>
 
 
 ## 老牌政务机器人⭐
