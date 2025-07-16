@@ -31,7 +31,7 @@
 
 <a href="https://www.shegongku.top/60.html" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 情报局社工库账号：<a href="https://t.me/QingBaoJuXuanwubot?start=NjU=" target="_blank">情报局社工库之玄武</a>
+* 情报局社工库账号：<a href="https://www.shegongku.top/60.html" target="_blank">情报局社工库之玄武</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库开盒教程</a>。
 
 ## 星盾社工机器人⭐⭐⭐⭐⭐
