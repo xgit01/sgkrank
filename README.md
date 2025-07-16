@@ -25,14 +25,6 @@
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 
-## 星盾社工机器人⭐⭐⭐⭐⭐
-
-免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
-
-* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
 ## 情报局社工库-玄武⭐⭐⭐⭐⭐
 
 免费查档开盒社工库，全网最牛5年老牌社工库，库里身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码，手机串号，快手uid，推特uid，facebook uid，身份证机主全网最多!2亿车牌独家数据!全家户籍首屈一指!非常强悍。详情见群组内其他人的查询结果展示图。
@@ -42,6 +34,12 @@
 * 情报局社工库账号：<a href="https://t.me/QingBaoJuXuanwubot?start=NjU=" target="_blank">情报局社工库之玄武</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库开盒教程</a>。
 
+## 星盾社工机器人⭐⭐⭐⭐⭐
+
+免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
+
+* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 智网综合社工库机器人⭐⭐⭐⭐⭐
