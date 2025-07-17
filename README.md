@@ -349,7 +349,7 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 
 ~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。这个账号目前已经搜索不到了
 
-* 账号：<a href="https://www.shegongku.top" target="_blank">@aishegongkubot001</a>。
+* 账号：<a href="https://www.shegongku.top" target="_blank">@qbjSGKbot_2025_itheikeji</a>。
 * 其他社工库：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
