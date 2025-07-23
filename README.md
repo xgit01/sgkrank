@@ -117,12 +117,20 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号信息：<a href="https://www.shegongku.top/449.html" target="_blank">无名社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## FanHua社工库机器人(繁花社工库)⭐ ⭐ ⭐ ⭐ ⭐
+## FanHua社工库机器人(繁花社工库)⭐⭐⭐⭐⭐
 
 繁花社工库机器人支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
 * 账号信息：<a href="https://www.shegongku.top/491.html" target="_blank">繁花社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## Seed&社工库机器人⭐⭐⭐⭐
+
+社工库小红书、微信查询系统，支持查询手机机主、身份户籍、快递订单、绑定信息、贷款记录、车主信息、学籍信息、企业法人、保险记录。通过签到、分享可以免费使用，但是测试效果是数据较少，可以换条件多查询几次。
+
+* 社工库账号：<a href="https://www.shegongku.top/86.html" target="_blank">Seed社工库</a>；
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">社工库2025微信、小红书开户反查</a>。
 
 ## 杰拉德社工库机器人社工库⭐⭐⭐⭐
 
@@ -310,13 +318,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## Seed社工库⭐⭐
-
-支持查询手机机主、身份户籍、快递订单、绑定信息、贷款记录、车主信息、学籍信息、企业法人、保险记录。通过签到、分享可以免费使用，但是测试效果是数据较少，可以换条件多查询几次。
-
-
-* 社工库账号：<a href="https://www.shegongku.top/86.html" target="_blank">Seed社工库</a>；
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 花花免费全球社工库⭐⭐
 
