@@ -96,7 +96,7 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 
 免费微信开盒社工库，独家人脸识别社工库，支持人脸识别、微信开盒、手机号开盒、身份证开盒、短信轰炸等功能，经过3天的暂停服务后又恢复正常了。
 
-* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@aysgkbot2025</a>
+* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@暗影社工库</a>
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
