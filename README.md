@@ -62,16 +62,14 @@
 
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
-
 免费永旺社工库是一个强势新出的社工库机器人/社工库查询工具，此社工库可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。开盒必备社工库，这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
 
 * 账号：<a href="https://www.shegongku.top/488.html" target="_blank">免费永旺社工机器人</a>
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
 ## ingeek社工库⭐⭐⭐⭐⭐
 
-免费的社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
+免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
 
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
@@ -114,10 +112,8 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/hhsgk.png" alt="2025最新社工库-黑盒社工库" border="0" style="width:380px;"></a>
 
-
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 ## 无名社工库机器人⭐⭐⭐⭐⭐
 
@@ -126,7 +122,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号信息：<a href="https://www.shegongku.top/449.html" target="_blank">无名社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## FanHua社工库机器人(繁花社工库)⭐⭐⭐⭐⭐
+## FanHua社工库机器人(繁花社工库)⭐⭐⭐⭐
 
 繁花社工库机器人支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
