@@ -73,8 +73,7 @@
 免费自助查询社工库，自然语言猎魔社工库，查询三网机主轨迹，微信号查询社工库，可以免费使用的社工库，很强大的社工库。
 
 * 账号：<a href="https://www.shegongku.top/648.html" target="_blank">喜力社工库查询系统</a>。
-
-
+* 社工库软件下载：<a href="https://www.shegongku.top/179.html" target="_blank">Telegram社工库下载</a>。
 
 ## ingeek社工库⭐⭐⭐⭐⭐
 
