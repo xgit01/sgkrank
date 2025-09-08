@@ -38,10 +38,10 @@
 
 全网独家自助开房记录查询社工库，手机定位自助查询社工库，免费可用社工库，微信号社工库/qq号反查/身份证开盒/户籍地址查询/英雄联盟开盒/王者荣耀开户/姓名猎魔/快递地址查询，快速查询泄漏隐私数据，免费试试不花钱，可以白嫖谁不嫖？频道内有查询结果示例图，没测试，需要的自行验证：
 
-<a href="https://www.mfsgk.com/212.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
+<a href="https://www.shegongku.top/642.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
 
 * Kali免费社工库账号：<a href="https://t.me/KaliSGKbot?start=76d6fb" target="_blank">@Kali免费社工库</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库开盒教程</a>。
+* Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
 ## 星盾社工机器人⭐⭐⭐⭐⭐
 
