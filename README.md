@@ -38,6 +38,15 @@
 * 情报局社工库账号：<a href="https://t.me/QingBaoJuXuanwubot?start=NjU=" target="_blank">情报局社工库之玄武</a>
 * 情报局社工库使用说明： <a href="https://www.shegongku.top/60.html" target="_blank" >Telegram社工库软件下载</a>。
 
+## 查档王免费社工库⭐⭐⭐⭐⭐
+
+查档王免费社工库，新上强大社工库查询工具，搭载身份证手机库全网最全数十亿，全网独家全国案情带身份证带案件详情，全网独家全家户籍数亿，全网独家车主库4亿，总数据量500亿!!!
+
+<a href="https://www.shegongku.top/667.html" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
+
+* 查档王社工库账号：<a href="https://t.me/cdwcd_bot?start=88" target="_blank">@查档王免费社工库</a>
+* 查档王社工库使用说明： <a href="https://www.shegongku.top/667.html" target="_blank" >Telegram社工库软件下载</a>。
+
 ## Kali社工机器人⭐⭐⭐⭐⭐
 
 免费手机号社工库，全网独家自助开房记录查询社工库，手机定位自助查询社工库，免费可用社工库，微信号社工库/qq号反查/身份证开盒/户籍地址查询/英雄联盟开盒/王者荣耀开户/姓名猎魔/快递地址查询，快速查询泄漏隐私数据，免费试试不花钱，可以白嫖谁不嫖？频道内有查询结果示例图，没测试，需要的自行验证：
@@ -47,7 +56,7 @@
 * Kali免费社工库账号：<a href="https://t.me/KaliSGKbot?start=76d6fb" target="_blank">@Kali免费社工库</a>
 * Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
-## 星盾社工机器人⭐⭐⭐⭐⭐
+## 星盾社工机器人⭐⭐⭐⭐
 
 免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
@@ -55,7 +64,7 @@
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 智网综合社工库机器人⭐⭐⭐⭐⭐
+## 智网综合社工库机器人⭐⭐⭐⭐
 
 海外免费开盒社工库查询工具，每日有三次免费查询次数，智网综合社工库可以查询车牌（全国车主），也可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。这个社工库跟后面的永旺社工库账号合并了，直接看下面的吧。
 
@@ -65,21 +74,21 @@
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
 
 
-## 免费永旺社工机器人⭐⭐⭐⭐⭐
+## 免费永旺社工机器人⭐⭐⭐⭐
 免费永旺社工库是一个强势新出的社工库机器人/社工库查询工具，此社工库可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。开盒必备社工库，这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
 
 * 账号：<a href="https://www.shegongku.top/488.html" target="_blank">免费永旺社工机器人</a>。
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 喜力社工库⭐⭐⭐⭐⭐
+## 喜力社工库⭐⭐⭐⭐
 
 免费自助查询社工库，手机号社工库，自然语言猎魔社工库，查询三网机主轨迹，微信号查询社工库，可以免费使用的社工库，很强大的社工库。
 
 * 账号：<a href="https://www.shegongku.top/648.html" target="_blank">喜力社工库查询系统</a>。
 * 社工库软件下载：<a href="https://www.shegongku.top/179.html" target="_blank">Telegram社工库下载</a>。
 
-## ingeek社工库⭐⭐⭐⭐⭐
+## ingeek社工库⭐⭐⭐⭐
 
 免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
 
@@ -87,14 +96,14 @@
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## X-ray社工库⭐⭐⭐⭐⭐
+## X-ray社工库⭐⭐⭐⭐
 
 X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
 
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-RAY智能机器人</a>；
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 红鼻子社工库机器人⭐⭐⭐⭐⭐
+## 红鼻子社工库机器人⭐⭐⭐⭐
 
 大红鼻子社工库机器人复活了，猎魔、开户、机主查询，可签到获取积分（积分可以用来解锁结果）。
 
@@ -102,7 +111,7 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 暗影社工库机器人⭐⭐⭐⭐⭐
+## 暗影社工库机器人⭐⭐⭐⭐
 
 免费微信开盒社工库，独家人脸识别社工库，支持人脸识别、微信开盒、手机号开盒、身份证开盒、短信轰炸等功能，经过3天的暂停服务后又恢复正常了。
 
@@ -110,7 +119,7 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## Hope社工库机器人⭐⭐⭐⭐⭐
+## Hope社工库机器人⭐⭐⭐⭐
 
 Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
@@ -118,7 +127,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 黑盒社工库⭐⭐⭐⭐⭐
+## 黑盒社工库⭐⭐⭐⭐
 
 社工库猎魔查询工具黑盒社工库是一个超级好用的社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
@@ -127,7 +136,7 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 无名社工库机器人⭐⭐⭐⭐⭐
+## 无名社工库机器人⭐⭐⭐⭐
 
 无名社工库支持根据姓名模糊查询，也可以发送QQ号码、手机号、身份证号等信息进行查询，有新用户奖励，可以免费使用的Telegram在线社工库。
 
