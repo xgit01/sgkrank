@@ -131,6 +131,13 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+## 云查查免费社工库 ⭐⭐⭐⭐
+
+云查查免费社工库可查询QQ号码绑定信息，携程旅行记录等，发送qq试了下，可返回信息，真实性自行验证。请不要充值使用。
+
+* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 ## 无名社工库机器人⭐⭐⭐⭐
 
 无名社工库支持根据姓名模糊查询，也可以发送QQ号码、手机号、身份证号等信息进行查询，有新用户奖励，可以免费使用的Telegram在线社工库。
@@ -198,12 +205,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 云查查免费社工库 ⭐⭐⭐
-
-云查查免费社工库可查询QQ号码绑定信息，携程旅行记录等，发送qq试了下，可返回信息，真实性自行验证。请不要充值使用。
-
-* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 免费社工库|免费|开房|开盒|查人|查档 ⭐⭐⭐
