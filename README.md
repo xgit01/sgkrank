@@ -48,7 +48,7 @@
 
 <a href="https://www.shegongku.top/642.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
 
-* Kali免费社工库账号：<a href="https://t.me/KaliSGKbot?start=76d6fb" target="_blank">@Kali免费社工库</a>
+* Kali免费社工库账号：<a href="https://t.me/QingBaoJuXuanwubot?start=ODg=" target="_blank">@Kali免费社工库</a>
 * Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
