@@ -74,7 +74,11 @@
 * 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
 
+## 小熊免费社工库⭐⭐⭐⭐
 
+小熊免费社工库支持免费查询手机定位/通话记录/微博绑定等信息，但是免费测试了一下，返回的信息并没有前面的社工库查询工具返回的多。
+
+* 传送门：<a href="https://www.shegongku.top/615.html" target="_blank">小熊免费社工库</a>；
 
 ## 喜力社工库⭐⭐⭐⭐
 
