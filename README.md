@@ -78,7 +78,7 @@
 
 小熊免费社工库支持免费查询手机定位/通话记录/微博绑定等信息，但是免费测试了一下，返回的信息并没有前面的社工库查询工具返回的多。
 
-* 传送门：<a href="https://www.shegongku.top/615.html" target="_blank">小熊免费社工库</a>；
+* 传送门: [小熊免费社工库](https://www.shegongku.top/615.html){target=_blank}
 
 ## 喜力社工库⭐⭐⭐⭐
 
