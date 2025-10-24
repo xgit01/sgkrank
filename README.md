@@ -83,6 +83,13 @@
 * 账号：<a href="https://www.shegongku.top/648.html" target="_blank">喜力社工库查询系统</a>。
 * 社工库软件下载：<a href="https://www.shegongku.top/179.html" target="_blank">Telegram社工库下载</a>。
 
+## 云查查免费社工库 ⭐⭐⭐⭐
+
+云查查免费社工库是一个可查微信绑定信息的社工库。可根据QQ号码/手机号关联查询绑定实名信息/携程旅行记录等，真实性自行验证。请不要充值使用。
+
+* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
 ## ingeek社工库⭐⭐⭐⭐
 
 免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
@@ -131,12 +138,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
 * 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 云查查免费社工库 ⭐⭐⭐⭐
-
-云查查免费社工库可查询QQ号码绑定信息，携程旅行记录等，发送qq试了下，可返回信息，真实性自行验证。请不要充值使用。
-
-* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 无名社工库机器人⭐⭐⭐⭐
 
