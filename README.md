@@ -38,14 +38,6 @@
 * 查档王社工库账号：<a href="https://t.me/chadangwangbot?start=88" target="_blank">@查档王免费社工库</a>
 * 查档王社工库使用说明： <a href="https://www.shegongku.top/667.html" target="_blank" >Telegram社工库软件下载</a>。
 
-## Kali社工机器人⭐⭐⭐⭐⭐
-
-免费手机号社工库，全网独家自助开房记录查询社工库，手机定位自助查询社工库，免费可用社工库，微信号社工库/qq号反查/身份证开盒/户籍地址查询/英雄联盟开盒/王者荣耀开户/姓名猎魔/快递地址查询。支持200亿+开房数据库秒出结果查询，拥有12亿+全国人口数据，附带部分独家爬取的政务数据。支持多种类型查询，非常强大的社工库。免费试试不花钱，可以白嫖谁不嫖？频道内有查询结果示例图，没测试，需要的自行验证：
-
-<a href="https://www.shegongku.top/642.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
-
-* Kali免费社工库账号：<a href="https://www.shegongku.top/642.html" target="_blank">@Kali免费社工库</a>
-* Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
 
@@ -59,7 +51,7 @@
 免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
 * 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 开始使用：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工库下载及使用</a>。
 
 ## 智网综合社工库机器人⭐⭐⭐⭐
 
@@ -382,12 +374,22 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 
 此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。这个社工库最近貌似抽风了？
 
-
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
-
 
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
 * 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+
+## Kali社工机器人⭐
+
+免费微信号社工库，全网独家自助开房记录查询社工库，手机定位自助查询社工库，免费可用社工库，微信号社工库/qq号反查/身份证开盒/户籍地址查询/英雄联盟开盒/王者荣耀开户/姓名猎魔/快递地址查询。支持200亿+开房数据库秒出结果查询，拥有12亿+全国人口数据，附带部分独家爬取的政务数据。支持多种类型查询，非常强大的社工库。免费试试不花钱，可以白嫖谁不嫖？频道内有查询结果示例图，没测试，需要的自行验证：
+
+貌似跑路了。
+
+<a href="https://www.shegongku.top/642.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
+
+* Kali免费社工库账号：<a href="https://www.shegongku.top/642.html" target="_blank">@Kali免费社工库</a>
+* Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
 
 ## TapTapSGK社工库⭐
