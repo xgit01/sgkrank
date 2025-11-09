@@ -46,6 +46,14 @@
 * 账号：<a href="https://www.shegongku.top/488.html" target="_blank">免费永旺社工机器人</a>。
 * 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+
+## 六扇门查档社工库⭐⭐⭐⭐
+
+免费六扇门社工库,一看就会,一查就有的免费在线社工库查询工具，隐私数据泄漏验证查询必备。
+
+* 账号：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门查档社工库</a>
+* 开始使用：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门社工库下载及使用</a>。
+
 ## 星盾社工机器人⭐⭐⭐⭐
 
 免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
