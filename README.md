@@ -74,14 +74,14 @@
 
 小熊免费社工库支持免费查询手机定位/通话记录/微博绑定等信息，但是免费测试了一下，返回的信息并没有前面的社工库查询工具返回的多。
 
-* 传送门: [小熊免费社工库](https://www.shegongku.top/615.html)；
+* 开始使用: [小熊免费社工库](https://www.shegongku.top/615.html)；
 
 ## 喜力社工库⭐⭐⭐⭐
 
 免费自助查询社工库，手机号社工库，自然语言猎魔社工库，查询三网机主轨迹，微信号查询社工库，可以免费使用的社工库，很强大的社工库。
 
 * 账号：<a href="https://www.shegongku.top/648.html" target="_blank">喜力社工库查询系统</a>。
-* 社工库软件下载：<a href="https://www.shegongku.top/179.html" target="_blank">Telegram社工库下载</a>。
+* 社工库软件下载：<a href="https://www.shegongku.top/648.html" target="_blank">Telegram社工库下载</a>。
 
 ## 云查查免费社工库 ⭐⭐⭐⭐
 
