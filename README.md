@@ -90,12 +90,13 @@
 * 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
 * 开始使用：<a href="http551/www.shegongku.top/551.html" target="_blank">免费云查查社工库</a>。
 
-## ingeek社工库⭐⭐⭐⭐
 
-免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
+## 暗影社工库机器人⭐⭐⭐⭐
 
-* 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+暗影社工库机器人是个微信社工库查询工具，也支持12306绑定信息查询(带身份证)，号称全网qq绑定数据最大的数据库，独家人脸识别社工库，支持人脸识别、微信开盒、手机号开盒、身份证开盒等功能，最近新上一批数据。
+
+* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@暗影社工库</a>
+* 开始使用： <a href="https://www.shegongku.top/563.html" target="_blank" >2025社工库软件下载及使用</a>。
 
 ## 无名社工库机器人⭐⭐⭐⭐
 
@@ -118,13 +119,6 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 * 账号：<a href="https://www.shegongku.top/707.html" target="_blank">零度社工库</a>
 * 开始使用：<a href="https://www.shegongku.top/707.html" target="_blank">零度社工库软件</a>。
 
-
-## 暗影社工库机器人⭐⭐⭐⭐
-
-免费微信开盒社工库，独家人脸识别社工库，支持人脸识别、微信开盒、手机号开盒、身份证开盒、短信轰炸等功能，经过3天的暂停服务后又恢复正常了。
-
-* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@暗影社工库</a>
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Hope社工库机器人⭐⭐⭐⭐
@@ -368,6 +362,12 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
+## ingeek社工库⭐
+
+免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
+
+* 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## Botnet免费社工机器人⭐
 
