@@ -56,6 +56,13 @@
 * 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
 
+## 星盾社工机器人⭐⭐⭐⭐
+
+免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
+
+* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
+* 开始使用：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工库下载及使用</a>。
+
 ## 小红书社工库机器人⭐⭐⭐⭐
 
 免费在线小红书查档社工库，支持查询海量地址信息/电信营业厅信息/QQ号绑定信息/手机号实名信息等。
@@ -69,13 +76,6 @@
 
 * 账号：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门查档社工库</a>
 * 开始使用：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门社工库下载及使用</a>。
-
-## 星盾社工机器人⭐⭐⭐⭐
-
-免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
-
-* 账号：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工机器人</a>
-* 开始使用：<a href="https://www.shegongku.top/34.html" target="_blank">星盾社工库下载及使用</a>。
 
 ## 小熊免费社工库⭐⭐⭐⭐
 
