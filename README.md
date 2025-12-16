@@ -301,12 +301,11 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 ## 免费社工库机器人⭐⭐
 
-一个Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，群组内还支持免费短信轰炸功能。
+免费Telegram社工库群组，支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询，群组内还支持免费短信轰炸功能。
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/SGK_MG.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-* 账号：<a href="https://www.shegongku.top/58.html" target="_blank">免费社工库机器人</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://t.me/gnoranceX2025bot" target="_blank">@gnoranceX2025bot</a>
 
 
 ## 差佬查免费社工库⭐⭐
@@ -315,7 +314,6 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 
 * 账号：<a href="https://www.shegongku.top/480.html" target="_blank">@chalaoshegongku</a>
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
 
 
 ## 滴滴社工库⭐⭐
