@@ -15,7 +15,6 @@ telegram社工库暗精灵是一个使用简单的免费社工库，免费公益
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
-
 ## 情报局社工库-玄武⭐⭐⭐⭐⭐
 
 免费情报局社工库是一个在线查询工具，免费手机号社工库，全网最牛5年老牌社工库，库里身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码，手机串号，快手uid，推特uid，facebook uid，身份证机主全网最多!2亿车牌独家数据!全家户籍首屈一指!非常强悍。
@@ -43,7 +42,7 @@ telegram社工库暗精灵是一个使用简单的免费社工库，免费公益
 
 免费社工库老字号六扇门有30W+活跃用户,老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。有一看就会,一查就有的免费在线社工库查询工具，隐私数据泄漏验证查询必备。
 
-* 账号：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门查档社工库</a>
+* 账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@LSMCDTSBOT</a>
 * 开始使用：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门社工库下载及使用</a>。
 
 
