@@ -45,6 +45,8 @@ telegram社工库暗精灵是一个使用简单的免费社工库，免费公益
 * 账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@LSMCDTSBOT</a>
 * 开始使用：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门社工库下载及使用</a>。
 
+<a href="https://www.shegongku.top/510.html" target="_blank"><img src="https://i.urusai.cc/P92ez.jpeg" alt="老牌Telegram开盒社工库六扇门" border="0" style="width:380px;"></a>
+
 
 ## 免费永旺社工机器人⭐⭐⭐⭐⭐
 
