@@ -105,7 +105,7 @@ telegram社工库暗精灵是一个使用简单的免费社工库，免费公益
 
 云查查免费社工库是一个可查微信绑定信息的社工库。可根据QQ号码/手机号关联查询绑定实名信息/携程旅行记录等，真实性自行验证。请不要充值使用。
 
-* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@云查查免费社工库</a>
+* 账号：<a href="https://www.shegongku.top/551.html" target="_blank">@freeTgSgk</a>
 * 开始使用：<a href="http551/www.shegongku.top/551.html" target="_blank">免费云查查社工库</a>。
 
 
