@@ -42,7 +42,7 @@ telegram社工库暗精灵是一个使用简单的免费社工库，免费公益
 
 免费社工库老字号六扇门有30W+活跃用户,老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。有一看就会,一查就有的免费在线社工库查询工具，隐私数据泄漏验证查询必备。
 
-* 账号：<a href="https://t.me/LSMCDTSBOT?start=1" target="_blank">@LSMCDTSBOT</a>
+* 账号：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">@LSMCDLXBOT</a>
 * 开始使用：<a href="https://www.shegongku.top/510.html" target="_blank">六扇门社工库下载及使用</a>。
 
 <a href="https://www.shegongku.top/510.html" target="_blank"><img src="https://i.urusai.cc/P92ez.jpeg" alt="老牌Telegram开盒社工库六扇门" border="0" style="width:380px;"></a>
