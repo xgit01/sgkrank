@@ -6,7 +6,7 @@
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
 
-社工库是包含身份信息的综合数据库，暗精灵社工库是一个综合隐私数据查询工具，免费公益社工库之王，绝对老牌社工库查询工具，暗精灵免费社工库支持简单查询、人工查档、猎魔、人肉搜索的综合社工库查询工具。此社工库社工库收录全网最全快递及订单数据（来自淘宝、京东等购物网站的4541420022条泄露数据）。可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
+暗精灵社工库是包含身份信息的在线社工库查询平台,暗精灵免费社工库支持简单查询、人工查档、猎魔、人肉搜索的综合社工库查询工具。此社工库社工库收录全网最全快递及订单数据（来自淘宝、京东等购物网站的4541420022条泄露数据）。可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
 * 暗精灵社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@AJL05_bot</a>
 * 教程: <a href="https://www.shegongku.top/1.html" target="_blank" >开始使用</a>。
@@ -34,7 +34,7 @@
 
 <a href="https://www.shegongku.top/667.html" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
-* 查档王社工库账号：<a href="https://t.me/cdw_001bot?start=88" target="_blank">@cdw_001bot</a>
+* 查档王社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403"" target="_blank">@cdw_001bot</a>
 * 查档王社工库使用说明： <a href="https://www.shegongku.top/667.html" target="_blank" >Telegram社工库软件下载</a>。
 
 
