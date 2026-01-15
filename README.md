@@ -25,7 +25,7 @@
 
 <a href="https://www.shegongku.top/60.html" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 情报局社工库账号：<a href="https://t.me/QingBaoJuXWbot?start=65" target="_blank">@QingBaoJuXWbot</a>
+* 情报局社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@QingBaoJuXWbot</a>
 * 情报局社工库使用说明： <a href="https://www.shegongku.top/60.html" target="_blank" >Telegram社工库软件下载</a>。
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
