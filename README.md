@@ -34,7 +34,7 @@
 
 <a href="https://www.shegongku.top/667.html" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
-* 查档王社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403"" target="_blank">@cdw_001bot</a>
+* 查档王社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">查档王免费社工库</a>
 * 查档王社工库使用说明： <a href="https://www.shegongku.top/667.html" target="_blank" >Telegram社工库软件下载</a>。
 
 
