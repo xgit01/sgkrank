@@ -23,18 +23,18 @@
 
 详情见群组内其他人的查询结果展示图。
 
-<a href="https://www.mfsgk.com/154.html" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 情报局社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">@QingBaoJuXWbot</a>
+* 情报局社工库账号：<a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank">@QingBaoJuXWbot</a>
 * 情报局社工库使用说明： <a href="https://www.mfsgk.com/154.html" target="_blank" >Telegram社工库软件下载</a>。
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
 
 免费查档王社工库是一个新上强大社工库查询工具，搭载身份证手机库全网最全数十亿，全网独家全国案情带身份证带案件详情，全网独家全家户籍数亿，全网独家车主库4亿，总数据量500亿!!!
 
-<a href="https://www.shegongku.top/667.html" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
-* 查档王社工库账号：<a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">查档王免费社工库</a>
+* 查档王社工库账号：<a href="https://t.me/cdw_001bot?start=88" target="_blank">查档王免费社工库</a>
 * 查档王社工库使用说明： <a href="https://www.shegongku.top/667.html" target="_blank" >Telegram社工库软件下载</a>。
 
 
