@@ -189,40 +189,9 @@ Hope社工库可以进行模糊搜索，数据不错的社工库，支持微信�
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
-## 天网社工库⭐⭐⭐⭐
-
-这个天网社工库大概是那个情报局查档|开户|开放|社工库的另一个马甲，需要关注情报局社工库的频道和群组之后才可以使用，支持签到后免费使用的社工库，试了下返回数据质量还可以。
-
-* 账号：<a href="https://www.shegongku.top/" target="_blank">天网社工库</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-
-## liemo社工库⭐⭐⭐⭐
-
-速度很快的猎魔社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
-
-* 账号信息：<a href="https://www.shegongku.top/198.html" target="_blank">liemo社工库</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-
-## 平安社工库⭐⭐⭐⭐
-
-平安社工库机器人可以查询身份户籍、快递地址、QQ绑定、微博绑定、学生数据等信息。
-
-<a href="https://www.shegongku.top" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
-
-
-* 账号信息：<a href="https://www.shegongku.top/41.html" target="_blank">平安社工库</a>
-* 教程：需要安装Telegram这个软件，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
-
-
-
 ## 免费社工库|免费|开房|开盒|查人|查档 ⭐⭐⭐
 
-这是一个Telegram群组(机器人也可以使用)，号称永久免费，支持猎魔、身份证补齐等操作。查询操作在群内进行，群内有操作提示消息，需要按照群内的操作指令来进行查询。大体如下：
+手机号社工库是指可以查询手机号绑定信息的telegram社工库机器人,号称永久免费，支持猎魔、身份证补齐等操作。查询操作在群内进行，群内有操作提示消息，需要按照群内的操作指令来进行查询。大体如下：
 
 
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/GnoranceX.png" alt="免费社工库" border="0" style="width:380px;"></a>
