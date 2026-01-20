@@ -13,7 +13,7 @@
 
 使用如下图：
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com/18.html" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
 
 ## 情报局社工库-玄武⭐⭐⭐⭐⭐
 
@@ -26,7 +26,7 @@
 <a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 * 情报局社工库账号：<a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank">@QingBaoJuXWbot</a>
-* 情报局社工库使用说明： <a href="https://www.mfsgk.com/154.html" target="_blank" >Telegram社工库软件下载</a>。
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
 
