@@ -71,6 +71,13 @@
 * 账号信息：<a href="https://www.shegongku.top/488.html" target="_blank">智网综合社工库机器人</a>；
 * 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
 
+## 喜力社工库⭐⭐⭐⭐
+
+喜力社工库是一个免费手机号社工库,免费自助查询社工库,自然语言猎魔社工库，查询三网机主轨迹，微信号查询社工库，可以免费使用的社工库，很强大的社工库。
+
+* 账号：<a href="https://www.shegongku.top/648.html" target="_blank">@gnoranceX2025bot</a>。
+* 社工库软件下载：<a href="https://www.shegongku.top/648.html" target="_blank">Telegram社工库下载</a>。
+
 ## 星盾社工机器人⭐⭐⭐⭐
 
 免费高质量社工库查询机器人，数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
@@ -85,19 +92,12 @@
 * 最新社工库软件下载及使用：<a href="https://www.shegongku.top/701.html" target="_blank">小红书社工库机器人 – 小红书开户机器人</a>；
 
 
-
 ## 小熊免费社工库⭐⭐⭐⭐
 
 小熊免费社工库支持免费查询手机定位/通话记录/微博绑定等信息，但是免费测试了一下，返回的信息并没有前面的社工库查询工具返回的多，原账号被telegram官方注销，目前已更新。
 
 * 开始使用: [小熊免费社工库](https://www.shegongku.top/615.html)；
 
-## 喜力社工库⭐⭐⭐⭐
-
-免费自助查询社工库，手机号社工库，自然语言猎魔社工库，查询三网机主轨迹，微信号查询社工库，可以免费使用的社工库，很强大的社工库。
-
-* 账号：<a href="https://www.shegongku.top/648.html" target="_blank">@gnoranceX2025bot</a>。
-* 社工库软件下载：<a href="https://www.shegongku.top/648.html" target="_blank">Telegram社工库下载</a>。
 
 ## 云查查免费社工库 ⭐⭐⭐⭐
 
@@ -352,14 +352,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## Botnet免费社工机器人⭐
-
-~~数据质量还不错的免费社工库，支持对QQ绑定手机、微信绑定、人口三要素、新浪微博等数据的查询~~。这个账号目前已经搜索不到了
-
-* 账号：<a href="https://www.shegongku.top" target="_blank">@qbjSGKbot_2025_itheikeji</a>。
-* 其他社工库：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
-
 
 ## Hello World社工库⭐
 
@@ -370,17 +362,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
 * 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
-## Kali社工机器人⭐
-
-免费微信号社工库，全网独家自助开房记录查询社工库，手机定位自助查询社工库，免费可用社工库，微信号社工库/qq号反查/身份证开盒/户籍地址查询/英雄联盟开盒/王者荣耀开户/姓名猎魔/快递地址查询。支持200亿+开房数据库秒出结果查询，拥有12亿+全国人口数据，附带部分独家爬取的政务数据。支持多种类型查询，非常强大的社工库。免费试试不花钱，可以白嫖谁不嫖？频道内有查询结果示例图，没测试，需要的自行验证：
-
-貌似跑路了。
-
-<a href="https://www.shegongku.top/642.html" target="_blank"><img src="pic/kali-result.jpeg" alt="Kali免费社工库-免费社工库查询" border="0" style="width:380px;"></a>
-
-* Kali免费社工库账号：<a href="https://www.shegongku.top/642.html" target="_blank">@Kali免费社工库</a>
-* Kali社工库详细使用教程： <a href="https://www.shegongku.top/642.html" target="_blank" >社工库telegram下载使用</a>。
 
 
 ## TapTapSGK社工库⭐
@@ -395,26 +376,6 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/TapSGKbot-chaxun.png" alt="TapTapSGK社工库" border="0" style="width:380px;"></a>
 
 
-## 老牌政务机器人⭐
-
-老牌政务机器人，支持上海10亿&银联7亿猎魔查询、全国无地址个户信息、全国法人信息、二要素查询。
-
-已经没法使用了~
-
-* 社工库账号：<a href="https://www.shegongku.top" target="_blank">@TorontoSGKbot</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
-
-
-## Master社工库机器人⭐
-
-此社工库可查询：身份证、手机号、快递住址、学籍信息、QQ绑定、邮箱绑定、微博绑定等，通过每日签到获取积分，测试了一下，非常难用，像是个半成品。
-
-目前这个社工库已经废了。
-
-* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@BaKaMasterBot</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
-
-
 ## 全国照片户籍机器人⭐
 
 一个社工库，个户机器人，根据身份证号码生成真实个人头像和户籍地址。包括白底、身份证反正面，这个不免费，所以没尝试，没有免费功能，不建议使用。
@@ -424,29 +385,11 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
-## 魔神社工机器人⭐
-
-~~魔神社工库支持查询QQ信息.LoL数据.人口猎魔.开房数据.快递信息.京东天猫淘宝信息.手机号机主信息.手机号历史定位.户籍地址.进行短信轰炸.KFC信息.宽带信息.12306驾驶人信息~~。
-
-没法用了。
-
-* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@motianxiaoBot</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
-
-
 ## 易查查社工库⭐
 
 之前一个可以查学历，查车主的社工库机器人，不过现在没法用了。
 
 * 社工库账号：<a href="https://www.shegongku.top/" target="_blank">易查查社工库</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
-
-
-## 免费社工库机器人 – OnlySGK⭐
-
-Only免费社工库查询工具，目前功能异常，无法使用了。
-
-* 社工库账号：<a href="https://www.shegongku.top/" target="_blank">@OnlySGK_bot</a>
 * 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
 
 
