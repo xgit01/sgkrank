@@ -22,9 +22,9 @@
 
 详情见群组内其他人的查询结果展示图。
 
-<a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://t.me/QingBaoJuXWsgkbot?start=88" target="_blank"><img src="pic/qingbaoju-result.png" alt="情报局社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 情报局社工库账号：<a href="https://t.me/QingBaoJuXWbot?start=88" target="_blank">@QingBaoJuXWbot</a>
+* 情报局社工库账号：<a href="https://t.me/QingBaoJuXWsgkbot?start=88" target="_blank">@QingBaoJuXWsgkbot</a>
 * 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
