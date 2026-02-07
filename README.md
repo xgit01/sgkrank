@@ -59,8 +59,7 @@
 免费永旺社工库是一个强势新出的社工库机器人/社工库查询工具，此社工库可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单等。开盒必备社工库，这个社工库貌似跟前面的那个智网是同一个。智网社工库换账号地址了。
 
 * 账号：<a href="https://www.mfsgk.com/162.html" target="_blank">免费永旺社工机器人</a>。
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 智网综合社工库机器人⭐⭐⭐⭐
 
@@ -69,7 +68,7 @@
 <a href="https://www.shegongku.top/488.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
 * 账号信息：<a href="https://www.mfsgk.com/162.html" target="_blank">智网综合社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新开盒开户社工库机器人使用教程</a>。
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 喜力社工库⭐⭐⭐⭐
 
