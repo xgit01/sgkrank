@@ -110,8 +110,8 @@
 
 暗影社工库机器人是个微信社工库查询工具，也支持12306绑定信息查询(带身份证)，号称全网qq绑定数据最大的数据库，独家人脸识别社工库，支持人脸识别、微信开盒、手机号开盒、身份证开盒等功能，最近新上一批数据。
 
-* 账号：<a href="https://www.shegongku.top/563.html" target="_blank">@暗影社工库</a>
-* 开始使用： <a href="https://www.shegongku.top/563.html" target="_blank" >2025社工库软件下载及使用</a>。
+* 账号：<a href="https://www.mfsgk.com/246.html" target="_blank">@暗影社工库</a>
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 无名社工库机器人⭐⭐⭐⭐
 
