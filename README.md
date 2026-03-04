@@ -413,5 +413,5 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 
 ## 使用教程
 
-* <a href="https://www.mfsgk.com/264.html target="_blank">2026最新社工库使用视频教程</a>
+* <a href="https://www.mfsgk.com/264.html" target="_blank">2026最新社工库使用视频教程</a>
 * <a href="https://github.com/tgkbase/shegongku" target="_blank" >最新Telegram社工库整理</a>
