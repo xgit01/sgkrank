@@ -35,6 +35,13 @@
 * 社工库账号：<a href="https://t.me/tysgk03bot?start=88" target="_blank">天眼社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
+## 天机阁社工库⭐⭐⭐⭐⭐
+
+天机阁工库是个新推出的在线社工库telegram查询工具,目前初次使用用户可免费使用5次,后续可以通过签到方式获得积分继续使用.
+
+* 社工库账号：<a href="https://t.me/tianjigebot?start=88" target="_blank">直达地址</a>
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
+
 
 ## 查档王免费社工库⭐⭐⭐⭐⭐
 
