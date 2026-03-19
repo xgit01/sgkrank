@@ -47,9 +47,9 @@
 
 免费查档王社工库是一个新上强大社工库查询工具，搭载身份证手机库全网最全数十亿，全网独家全国案情带身份证带案件详情，全网独家全家户籍数亿，全网独家车主库4亿，总数据量500亿!!!
 
-<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/cdw_001bot?start=8" target="_blank"><img src="pic/chadangwang.png" alt="查档王免费社工库" border="0" style="width:380px;"></a>
 
-* 查档王社工库账号：<a href="https://t.me/cdw_001bot?start=88" target="_blank">查档王免费社工库</a>
+* 查档王社工库账号：<a href="https://t.me/cdw_001bot?start=8" target="_blank">查档王免费社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 ## 六扇门查档社工库⭐⭐⭐⭐⭐
