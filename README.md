@@ -61,9 +61,9 @@
 
 <a href="https://www.shegongku.top/510.html" target="_blank"><img src="https://i.urusai.cc/P92ez.jpeg" alt="老牌Telegram开盒社工库六扇门" border="0" style="width:380px;"></a>
 
-## 奥创社工库机器人⭐⭐⭐⭐⭐
+## AISGK社工库机器人⭐⭐⭐⭐⭐
 
-奥创社工库机器是个经过时间考验的TG最强社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
+AISGK社工库是个经过时间考验的TG最强社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
 
 * 账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">@aisgk111111bot</a>
 * 开始使用：<a href="https://www.shegongku.top/43.html" target="_blank">奥创社工库如何使用</a>。
