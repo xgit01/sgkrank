@@ -56,7 +56,7 @@
 
 免费社工库老字号六扇门有30W+活跃用户,老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。有一看就会,一查就有的免费在线社工库查询工具，隐私数据泄漏验证查询必备。
 
-* 账号：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">@LSMCDLXBOT</a>
+* 账号：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">六扇门社工库账号</a>
 * 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 <a href="https://www.shegongku.top/510.html" target="_blank"><img src="https://i.urusai.cc/P92ez.jpeg" alt="老牌Telegram开盒社工库六扇门" border="0" style="width:380px;"></a>
@@ -65,7 +65,7 @@
 
 AISGK社工库是个经过时间考验的TG最强社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
 
-* 账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">@aisgk111111bot</a>
+* 账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">AI社工库</a>
 * 开始使用：<a href="https://www.mfsgk.com/22.html" target="_blank">AISGK社工库如何使用</a>。
 
 <a href="https://www.shegongku.top/43.html" target="_blank"><img src="https://i.urusai.cc/azFgI.png" alt="奥创社工库如何使用" border="0" style="width:380px;"></a>
