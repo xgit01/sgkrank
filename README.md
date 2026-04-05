@@ -28,7 +28,7 @@
 
 ## 天眼社工库⭐⭐⭐⭐⭐
 
-免费天眼社工库是一个新人友好的社工库查询工具,新用户加入即可免费使用,体验还不错.
+天眼社工库是一个免费telegram社工库查询机器人,新用户加入即可免费使用,体验还不错.
 
 效果详情见该社工库群组查询结果展示图:
 
@@ -40,6 +40,10 @@
 ## 天机阁社工库⭐⭐⭐⭐⭐
 
 天机阁工库是个新推出的在线社工库telegram查询工具,目前初次使用用户可免费使用5次,后续可以通过签到方式获得积分继续使用.
+
+效果详情见该社工库群组查询结果展示图:
+
+<a href="https://t.me/tianjigebot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 * 社工库账号：<a href="https://t.me/tianjigebot?start=88" target="_blank">直达地址</a>
 * 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
