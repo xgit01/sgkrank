@@ -411,7 +411,7 @@ Bug社工库可以帮你查询泄露的数据，包括QQ信息、微博、贴吧
 之前一个可以查学历，查车主的社工库机器人，不过现在没法用了。
 
 * 社工库账号：<a href="https://www.shegongku.top/" target="_blank">易查查社工库</a>
-* 最新社工库使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细教程</a>。
+* 教程见: <a href="#使用教程" target="_blank" >文章末尾</a>。
 
 
 ## 日月社工库⭐
