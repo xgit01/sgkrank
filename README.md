@@ -68,7 +68,7 @@
 
 ## AISGK社工库机器人⭐⭐⭐⭐⭐
 
-AISGK社工库是个经过时间考验的TG最强社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
+AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功能非常齐全和超高的准确率，简单易上手现分享给大家。
 
 * 账号：<a href="https://t.me/aisgk111111bot?start=90" target="_blank">AI社工库</a>
 * 开始使用：<a href="https://www.mfsgk.com/22.html" target="_blank">AISGK社工库如何使用</a>。
