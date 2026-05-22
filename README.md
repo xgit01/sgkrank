@@ -157,11 +157,11 @@ X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-RAY智能机器人</a>；
 * 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-## 零度社工机器人⭐⭐⭐⭐
+## 一诺社工库⭐⭐⭐⭐
 
-零度免费社工库是个免费微信社工库，户籍地址查询社工库，英雄联盟开盒社工库，机器人免费使用，不过需要积分，可以通过签到/分享获得。
+一诺免费社工库是个免费微信社工库，户籍地址查询社工库，英雄联盟开盒社工库，机器人免费使用，不过需要积分，可以通过签到/分享获得。
 
-* 账号：<a href="https://www.shegongku.top/707.html" target="_blank">零度社工库</a>
+* 账号：<a href="https://www.shegongku.top/707.html" target="_blank">一诺社工库</a>
 * 开始使用：<a href="https://www.shegongku.top/707.html" target="_blank">零度社工库软件</a>。
 
 
