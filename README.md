@@ -387,7 +387,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 2025最新可用免费在线社工库，TapTapSGK开盒社工库机器人，此开盒社工库号称全网独家真手机定位及外卖地址、酒店记录社工库查询工具，机器人菜单下还提供了短信轰炸功能，感谢热心网友分享，社工库主页介绍了其主要功能特色，支持自助查询，需要的自行测试吧。
 
 * 账号: <a href="https://www.shegongku.top/432.html" target="_blank">@Tap社工库</a>；
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新Tap社工库下载</a>。
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 频道内查询效果图如下：
 
