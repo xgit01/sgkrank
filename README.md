@@ -174,13 +174,12 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 ## 黑盒社工库⭐⭐⭐⭐
 
-社工库猎魔查询工具黑盒社工库是一个超级好用的社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
+黑盒免费社工库查询某人开房记录及同住人员信息,好用的社工库猎魔查询工具，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/hhsgk.png" alt="2025最新社工库-黑盒社工库" border="0" style="width:380px;"></a>
 
 * 账号：<a href="https://www.shegongku.top/115.html" target="_blank">黑盒社工库</a>；
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
-
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
 ## FanHua社工库机器人(繁花社工库)⭐⭐⭐⭐
