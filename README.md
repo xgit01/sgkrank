@@ -202,7 +202,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 杰拉德社工库机器人是2025新出社工库，原红鼻子社工库打造新产品，数据搭载138000000条二要素数据，覆盖了全国95%的人口信息，之前泄露的上海10e数据也在导入中，感谢网友提供的分享。
 
 * 账号：<a href="https://www.shegongku.top/544.html" target="_blank">@mfsgk2025</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
 ## 小孩哥社工库机器人⭐⭐⭐⭐
