@@ -377,7 +377,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
 
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
-* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
 
