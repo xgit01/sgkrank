@@ -187,7 +187,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 繁花社工库机器人支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
 * 账号信息：<a href="https://www.shegongku.top/491.html" target="_blank">繁花社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Seed&社工库机器人⭐⭐⭐⭐
@@ -224,7 +224,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 
 * 账号：<a href="https://www.shegongku.top/473.html" target="_blank">免费查档社工库</a>
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
@@ -232,7 +232,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
 * 账号：<a href="https://www.shegongku.top/59.html" target="_blank">275社工库</a>；
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 约翰社工库机器人⭐⭐⭐
@@ -279,7 +279,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 一个支持短信轰炸的社工库机器人，支持短信轰炸，电话轰炸，查询QQ绑定等功能。
 
 * 详情：<a href="https://www.itheikeji.com/1.html" target="_blank" >鸟哥短信轰炸机器人</a>。
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 摩乐乐社工库机器人-社工好帮手⭐⭐
@@ -287,7 +287,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
 * 账号：<a href="https://www.shegongku.top/76.html" target="_blank">摩乐乐社工库</a>
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -299,7 +299,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 
 * 社工库Telegram账号：<a href="https://www.shegongku.top/1.html" target="_blank">Space社工库机器人</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
@@ -317,7 +317,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 差佬查免费社工库可以查询身份证证件地址，手机机主，车牌查询等信息。发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询。
 
 * 账号：<a href="https://www.shegongku.top/480.html" target="_blank">@chalaoshegongku</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 滴滴社工库⭐⭐
@@ -325,7 +325,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 本来数据质量不错的社工库，不过应该是中间跑路了，换人了，不好用，数据貌似也是旧的。
 
 * 账号：<a href="https://www.shegongku.top/24.html" target="_blank">滴滴社工库</a>
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 狗狗免费社工机器人⭐⭐
@@ -333,7 +333,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 直接发送身份证号或QQ号码等信息，返回的数据简单、但是收录的数据不如<a href="https://www.shegongku.top/21.html" target="_blank" >前面分享的社工库</a>全面。
 
 * 账号：<a href="https://www.shegongku.top/314.html" target="_blank">狗狗免费社工机器人</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 花花免费全球社工库⭐⭐
@@ -344,7 +344,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 
 * 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## 叮当猫Telegram社工库⭐⭐
@@ -352,7 +352,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 可免费使用的社工库查询工具
 
 * 账号：<a href="https://www.shegongku.top/403.html" target="_blank">叮当猫Telegram社工库机器人</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 ## 空壳Bot⭐
 
@@ -367,7 +367,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 免费社工信息查询平台、泄露数据查询平台，ingeek社工库机器人收录全网泄露数据，此社工库支持各类泄漏数据的查询，社工库中的战斗机，低调的存活很久了。这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
 
 * 详情：<a href="https://www.shegongku.top/39.html" target="_blank" >ingeek社工库</a>。
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 ## Hello World社工库⭐
@@ -377,7 +377,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 <a href="https://www.shegongku.top" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
 
 * 社工库账号：<a href="https://www.shegongku.top/26.html" target="_blank">Hello World社工库</a>；
-* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2025年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
