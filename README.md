@@ -344,7 +344,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 
 * 社工库账号：<a href="https://www.shegongku.top/29.html" target="_blank">花花免费全球社工库</a>
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
 ## 叮当猫Telegram社工库⭐⭐
