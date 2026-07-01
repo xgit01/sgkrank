@@ -187,7 +187,7 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 繁花社工库机器人支持身份证补齐的社工库机器人，查询免费，查询结果大码，需要积分解锁结果，支持签到和分享获取积分。
 
 * 账号信息：<a href="https://www.shegongku.top/491.html" target="_blank">繁花社工库机器人</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
 ## Seed&社工库机器人⭐⭐⭐⭐
