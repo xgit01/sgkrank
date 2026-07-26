@@ -95,7 +95,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 智网社工库免费使用,海外免费开盒社工库查询工具，每日有三次免费查询次数，智网综合社工库可以查询车牌（全国车主），也可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。这个社工库跟后面的永旺社工库账号合并了，直接看下面的吧。
 
-<a href="https://www.shegongku.top/488.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
+<a href="https://www.mfsgk.com/249.html" target="_blank"><img src="pic/zhiwang.png" alt="智网综合社工库机器人" border="0" style="width:380px;"></a>
 
 * 账号信息：<a href="https://www.mfsgk.com/162.html" target="_blank">智网综合社工库机器人</a>；
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
