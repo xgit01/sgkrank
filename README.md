@@ -229,10 +229,10 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 ## 275社工库：隐私数据查询，新上山东2023新二要素⭐⭐⭐
 
-功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
+275社工库是一个专业的社工库猎魔工具,功能比较单一，主要是身份三要素查询，知道精确名字和部分身份证，或者模糊名字和部分身份证，
 
-* 账号：<a href="https://www.shegongku.top/59.html" target="_blank">275社工库</a>；
-* 社工库教程：<a href="https://www.shegongku.top/179.html" target="_blank">2026年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://t.me/tysgk03bot?start=88" target="_blank">275社工库</a>；
+* 教程：<a href="https://www.mfsgk.com/67.html" target="_blank">275社工库开盒使用说明</a>。
 
 
 ## 约翰社工库机器人⭐⭐⭐
