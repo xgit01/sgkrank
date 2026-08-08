@@ -152,7 +152,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 ## X-ray社工库⭐⭐⭐⭐
 
-X-RAY社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
+X-RAY社工库是一个免费qq社工库,免费微信社工库,可以通过每日签到获取积分，查询免费，解锁需要积分。
 
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-RAY智能机器人</a>；
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
