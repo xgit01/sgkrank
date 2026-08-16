@@ -209,8 +209,8 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 全新免费智能社工库小孩哥社工库机器人数据全，简单易用，可以每日签到免费查询~
 
-* 账号信息：<a href="https://www.mfsgk.com/70.html" target="_blank">小孩哥社工库机器人</a>；
-* 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
+* 账号信息：<a href="https://t.me/LSMCDLXBOT?start=1" target="_blank">小孩哥社工库机器人</a>；
+* 教程见: <a href="https://www.mfsgk.com/70.html" target="_blank" >小孩哥社工库如何使用</a>。
 
 
 ## 免费社工库|免费|开房|开盒|查人|查档 ⭐⭐⭐
