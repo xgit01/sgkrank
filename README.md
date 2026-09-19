@@ -250,11 +250,11 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 * 账号：<a href="https://www.shegongku.top/61.html" target="_blank">哈希社工库</a>；
 * 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
 
-## 007社工库机器人⭐⭐⭐
+## 智库隐私查询机器人⭐⭐⭐
 
-机主查询/猎魔查询/法人查询/快递查询社工库机器人，功能很丰富的社工库机器人，主要用于身份信息验证，提供高清正反面照片，全国同名信息查询。
+智库隐私查询机器人是一款免费隐私数据查询社工库,支持微信/QQ/法人/车牌等数据的查询操作,数据来自互联网,同样也是可以免费体验查询.
 
-* 账号：<a href="https://www.shegongku.top/233.html" target="_blank">007社工库机器人</a>；
+* 账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">@zksgkbot</a>；
 * 使用说明：<a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细图文教程</a>。
 
 ## 诗人社工库⭐⭐⭐
