@@ -254,8 +254,8 @@ Hope社工库是一个免费社工库网站,可以进行模糊搜索，数据不
 
 智库隐私查询机器人是一款免费隐私数据查询社工库,支持微信/QQ/法人/车牌等数据的查询操作,数据来自互联网,同样也是可以免费体验查询.
 
-* 账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">@zksgkbot</a>；
-* 使用说明：<a href="https://www.shegongku.top/179.html" target="_blank" >Telegram社工库使用详细图文教程</a>。
+* 账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">@智库社工库</a>；
+* 详情：<a href="https://www.mfsgk.com/306.html" target="_blank" >智库社工库如何使用</a>。
 
 ## 诗人社工库⭐⭐⭐
 
