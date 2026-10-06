@@ -87,7 +87,7 @@ AISGK社工库是一个全网最强免费社工库，原知名AI社工库，功�
 
 永和社工库提供了丰富的用户信息查询功能,可以免费查询QQ信息/身份证/微信号/车牌号/手机机主信息等内容,动动手点下签到即可开始免费查询.
 
-* 账号：<a href="https://t.me/yonghehebot?start=8F3116AE" target="_blank">@永和社工库</a>
+* 账号：<a href="https://t.me/yonghehebot?start=ref_7503613403" target="_blank">@永和社工库</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
