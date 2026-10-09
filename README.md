@@ -157,11 +157,11 @@ X-RAY社工库是一个免费qq社工库,免费微信社工库,可以通过每�
 * 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-RAY智能机器人</a>；
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
-## 一诺社工库⭐⭐⭐⭐
+## 萬达社工库⭐⭐⭐⭐
 
-一诺免费社工库是一个在线社工库查询工具,免费微信社工库，户籍地址查询社工库，英雄联盟开盒社工库，机器人免费使用，不过需要积分，可以通过签到/分享获得。
+萬达社工库是一个纯粹的免费社工库机器人,此在线社工库查询工具可以实现全国模糊找人.也是一个免费微信社工库，户籍地址查询社工库，英雄联盟开盒社工库，机器人免费使用，不过需要积分，可以通过签到/分享获得。
 
-* 账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">一诺社工库</a>
+* 账号：<a href="https://t.me/qingbaobu?start=88" target="_blank">萬达社工库</a>
 * 详情: <a href="https://www.shegongku.top/707.html" target="_blank" >最新免费微信社工库</a>。
 
 ## Hope社工库机器人⭐⭐⭐⭐
