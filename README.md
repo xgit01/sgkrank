@@ -243,12 +243,12 @@ seed社工库最新地址更新,该社工库最近更新12亿数据,免费小红
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 
-## 哈希社工库⭐⭐⭐
+## 新之助社工库⭐⭐⭐
 
-支持人脸识别、手机号查询、短信轰炸，支持每日签到。
+新之助社工库是一款可以查询开房记录的社工库,支持多条线路选择,直接发送查询条件即可开始查询.
 
-* 账号：<a href="https://www.shegongku.top/61.html" target="_blank">哈希社工库</a>；
-* 教程：不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+* 账号：<a href="https://t.me/yonghehebot?start=ref_7503613403" target="_blank">新之助社工库</a>；
+* 使用教程： <a href="https://www.mfsgk.com/325.html" target="_blank" >新之助社工库如何使用</a>。
 
 ## 智库隐私查询机器人⭐⭐⭐
 
