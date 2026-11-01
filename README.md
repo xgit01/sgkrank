@@ -247,7 +247,7 @@ seed社工库最新地址更新,该社工库最近更新12亿数据,免费小红
 
 新之助社工库是一款可以查询开房记录的社工库,支持多条线路选择,直接发送查询条件即可开始查询.
 
-* 账号：<a href="https://t.me/yonghehebot?start=ref_7503613403" target="_blank">新之助社工库</a>；
+* 账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">新之助社工库</a>；
 * 使用教程： <a href="https://www.mfsgk.com/325.html" target="_blank" >新之助社工库如何使用</a>。
 
 ## 智库隐私查询机器人⭐⭐⭐
