@@ -1,6 +1,6 @@
 # 2026最新免费社工库排行(各位看官，麻烦给个star关注一下)
 
-全网最新永久免费社工库是指可以免费使用的telegram社工库机器人。专业整理2026最新免费高质量Telegram电报社工库机器人和在线社工库查询网站，定期删除无法使用的社工库，这些免费社工库功能各异，如小红书社工库/微信社工库/手机定位社工库/酒店开房记录查询社工库等，都是基于泄漏隐私数据，看看你是否也处于数据外泄事件之中(内容更新日期2026年11月11日)。
+全网最新永久免费社工库是指可以免费使用的telegram社工库机器人。专业整理2026最新免费高质量Telegram电报社工库机器人和在线社工库查询网站，定期删除无法使用的社工库，这些免费社工库功能各异，如小红书社工库/微信社工库/手机定位社工库/酒店开房记录查询社工库等，都是基于泄漏隐私数据，看看你是否也处于数据外泄事件之中(内容更新日期2026年11月15日)。
 
 
 ## 暗精灵社工库⭐⭐⭐⭐⭐
@@ -33,7 +33,7 @@
 
 <a href="https://t.me/tianyanSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">天眼社工库</a>
+* 社工库账号：<a href="https://t.me/tianyanSGKbot?start=88" target="_blank">@tianyanSGKbot</a>
 * 教程见: <a href="#使用教程" target="_blank" >视频教程</a>。
 
 ## 天机阁社工库⭐⭐⭐⭐⭐
@@ -44,7 +44,7 @@
 
 <a href="https://t.me/tianjigeSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-* 社工库账号：<a href="https://t.me/tianjigeSGKbot?start=88" target="_blank">直达地址</a>
+* 社工库账号：<a href="https://t.me/tianjigeSGKbot?start=88" target="_blank">@tianjigeSGKbot</a>
 * 详见: <a href="https://www.mfsgk.com/273.html" target="_blank" >天机阁社工库使用教程</a>。
 
 
